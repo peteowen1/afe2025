@@ -1,0 +1,3422 @@
+[
+  {
+    "state": "Votes",
+    "party_seat": "Coalition Less than 30%",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 30% - 30.99%",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 31% - 31.99%",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 32% - 32.99%",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 33% - 33.99%",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 34% - 34.99%",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 35% - 35.99%",
+    "odds_primary": null,
+    "odds_secondary": "4.50"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 36% - 36.99%",
+    "odds_primary": null,
+    "odds_secondary": "5.50"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 37% - 37.99%",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 38% - 38.99%",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 39% - 39.99%",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 40% - 40.99%",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 41% - 41.99%",
+    "odds_primary": null,
+    "odds_secondary": "67.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Coalition 42% or More",
+    "odds_primary": null,
+    "odds_secondary": "81.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor Less than 25%",
+    "odds_primary": null,
+    "odds_secondary": "101.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 25% - 25.99%",
+    "odds_primary": null,
+    "odds_secondary": "51.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 26% - 26.99%",
+    "odds_primary": null,
+    "odds_secondary": "29.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 27% - 27.99%",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 28% - 28.99%",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 29% - 29.99%",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 30% - 30.99%",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 31% - 31.99%",
+    "odds_primary": null,
+    "odds_secondary": "4.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 32% - 32.99%",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 33% - 33.99%",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 34% - 34.99%",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 35% - 35.99%",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 36% - 36.99%",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "Labor 37% or More",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 46.0% or less (LNC 54%+)",
+    "odds_primary": null,
+    "odds_secondary": "67.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 46.01-47%(LNC 53-53.99%)",
+    "odds_primary": null,
+    "odds_secondary": "41.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 47.01-48%(LNC 52-52.99%)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 48.01-49%(LNC 51-51.99%)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 49.01-50%(LNC 50-50.99%)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 50.01-51%(LNC 49-49.99%)",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 51.01-52%(LNC 48-48.99%)",
+    "odds_primary": null,
+    "odds_secondary": "3.75"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 52.01-53%(LNC 47-47.99%)",
+    "odds_primary": null,
+    "odds_secondary": "3.75"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 53.01-54%(LNC 46-46.99%)",
+    "odds_primary": null,
+    "odds_secondary": "4.50"
+  },
+  {
+    "state": "Votes",
+    "party_seat": "ALP 54.01%+ (LNC under 46%)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 50 Seats or fewer",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 51 - 55 Seats",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 56 - 60 Seats",
+    "odds_primary": null,
+    "odds_secondary": "4.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 61 - 65 Seats",
+    "odds_primary": null,
+    "odds_secondary": "3.50"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 66 - 70 Seats",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 71 - 75 Seats",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 76 - 80 Seats",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 81 - 85 Seats",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 86 - 90 Seats",
+    "odds_primary": null,
+    "odds_secondary": "41.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 91 - 95 Seats",
+    "odds_primary": null,
+    "odds_secondary": "151.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 96 - 100 Seats",
+    "odds_primary": null,
+    "odds_secondary": "251.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Coalition 101 Seats or more",
+    "odds_primary": null,
+    "odds_secondary": "251.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Greens Zero Seats Won",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Greens One Seat Won",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Greens Two Seats Won",
+    "odds_primary": null,
+    "odds_secondary": "4.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Greens Three Seats Won",
+    "odds_primary": null,
+    "odds_secondary": "3.25"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Greens Four Seats Won",
+    "odds_primary": null,
+    "odds_secondary": "4.50"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Greens Five Seats Won",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Greens Six or more seats won",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independents 2 Seats or Less",
+    "odds_primary": null,
+    "odds_secondary": "101.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independents 3 - 4 Seats",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independents 5 - 6 Seats",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independents 7 - 8 Seats",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independents 9 - 10 Seats",
+    "odds_primary": null,
+    "odds_secondary": "2.60"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independents 11- 12 Seats",
+    "odds_primary": null,
+    "odds_secondary": "2.90"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independents 13 - 14 Seats",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Independnts 15 Seats or more",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 50 Seats or fewer",
+    "odds_primary": null,
+    "odds_secondary": "51.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 51 - 55 Seats",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 56 - 60 Seats",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 61 - 65 Seats",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 66 - 70 Seats",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 71 - 75 Seats",
+    "odds_primary": null,
+    "odds_secondary": "3.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 76 - 80 Seats",
+    "odds_primary": null,
+    "odds_secondary": "2.50"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 81 - 85 Seats",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 86 - 90 Seats",
+    "odds_primary": null,
+    "odds_secondary": "23.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 91 - 95 Seats",
+    "odds_primary": null,
+    "odds_secondary": "41.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 96 - 100 Seats",
+    "odds_primary": null,
+    "odds_secondary": "151.00"
+  },
+  {
+    "state": "House of Representatives Seats",
+    "party_seat": "Labor 101 Seats or more",
+    "odds_primary": null,
+    "odds_secondary": "201.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Banks)",
+    "odds_primary": null,
+    "odds_secondary": "4.50"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Banks)",
+    "odds_primary": null,
+    "odds_secondary": "1.15"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Banks)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Barton)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Barton)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Barton)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Bennelong)",
+    "odds_primary": null,
+    "odds_secondary": "1.80"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Bennelong)",
+    "odds_primary": null,
+    "odds_secondary": "1.90"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Bennelong)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Berowra)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Berowra)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Berowra)",
+    "odds_primary": null,
+    "odds_secondary": "12.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Blaxland)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Blaxland)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Ahmed Ouf-IND (Blaxland)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Blaxland)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Bradfield)",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Bradfield)",
+    "odds_primary": null,
+    "odds_secondary": "1.90"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "N Boele-IND (Bradfield)",
+    "odds_primary": null,
+    "odds_secondary": "1.80"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Bradfield)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Calare)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Calare)",
+    "odds_primary": null,
+    "odds_secondary": "1.65"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Andrew Gee-IND (Calare)",
+    "odds_primary": null,
+    "odds_secondary": "2.45"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Calare)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Chifley)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Chifley)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Chifley)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Cook)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Cook)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Cook)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Cowper)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Cowper)",
+    "odds_primary": null,
+    "odds_secondary": "1.95"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Caz Heise-IND (Cowper)",
+    "odds_primary": null,
+    "odds_secondary": "1.75"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Cowper)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Cunningham)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Cunningham)",
+    "odds_primary": null,
+    "odds_secondary": "16.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Greens (Cunningham)",
+    "odds_primary": null,
+    "odds_secondary": "12.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Cunningham)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Dobell)",
+    "odds_primary": null,
+    "odds_secondary": "1.08"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Dobell)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Dobell)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Eden-Monaro)",
+    "odds_primary": null,
+    "odds_secondary": "1.17"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Eden-Monaro)",
+    "odds_primary": null,
+    "odds_secondary": "4.35"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Eden-Monaro)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Farrer)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Farrer)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Farrer)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Dai Le-IND (Fowler)",
+    "odds_primary": null,
+    "odds_secondary": "1.40"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Fowler)",
+    "odds_primary": null,
+    "odds_secondary": "2.80"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Fowler)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Fowler)",
+    "odds_primary": null,
+    "odds_secondary": "41.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Gilmore)",
+    "odds_primary": null,
+    "odds_secondary": "1.60"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Gilmore)",
+    "odds_primary": null,
+    "odds_secondary": "2.20"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Gilmore)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Grayndler)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Greens (Grayndler)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Grayndler)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Grayndler)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Greenway)",
+    "odds_primary": null,
+    "odds_secondary": "1.13"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Greenway)",
+    "odds_primary": null,
+    "odds_secondary": "4.50"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Greenway)",
+    "odds_primary": null,
+    "odds_secondary": "29.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Hughes)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Hughes)",
+    "odds_primary": null,
+    "odds_secondary": "1.06"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Hughes)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Hume)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Hume)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Hume)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Hunter)",
+    "odds_primary": null,
+    "odds_secondary": "1.15"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Hunter)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "One Nation (Hunter)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Hunter)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Kingsford Smith)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Kingsford Smith)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Kingsford Smith)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Lindsay)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Lindsay)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Lindsay)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Lyne)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Lyne)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Lyne)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Macarthur)",
+    "odds_primary": null,
+    "odds_secondary": "1.08"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Macarthur)",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Macarthur)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Sophie Scamps-IND(Mackellar)",
+    "odds_primary": null,
+    "odds_secondary": "1.32"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Mackellar)",
+    "odds_primary": null,
+    "odds_secondary": "3.25"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Mackellar)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Mackellar)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Macquarie)",
+    "odds_primary": null,
+    "odds_secondary": "1.22"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Macquarie)",
+    "odds_primary": null,
+    "odds_secondary": "3.75"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Macquarie)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (McMahon)",
+    "odds_primary": null,
+    "odds_secondary": "1.25"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (McMahon)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (McMahon)",
+    "odds_primary": null,
+    "odds_secondary": "3.50"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Mitchell)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Mitchell)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Mitchell)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (New England)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (New England)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (New England)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Newcastle)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Newcastle)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Greens (Newcastle)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Newcastle)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Page)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Page)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Page)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Parkes)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Parkes)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Parkes)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Parramatta)",
+    "odds_primary": null,
+    "odds_secondary": "1.18"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Parramatta)",
+    "odds_primary": null,
+    "odds_secondary": "4.25"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Parramatta)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Paterson)",
+    "odds_primary": null,
+    "odds_secondary": "1.80"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Paterson)",
+    "odds_primary": null,
+    "odds_secondary": "2.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Paterson)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Reid)",
+    "odds_primary": null,
+    "odds_secondary": "1.22"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Reid)",
+    "odds_primary": null,
+    "odds_secondary": "3.85"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Reid)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Richmond)",
+    "odds_primary": null,
+    "odds_secondary": "1.30"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Richmond)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Greens (Richmond)",
+    "odds_primary": null,
+    "odds_secondary": "3.75"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Richmond)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Riverina)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Riverina)",
+    "odds_primary": null,
+    "odds_secondary": "1.02"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Riverina)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Robertson)",
+    "odds_primary": null,
+    "odds_secondary": "1.60"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Robertson)",
+    "odds_primary": null,
+    "odds_secondary": "2.20"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Robertson)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Shortland)",
+    "odds_primary": null,
+    "odds_secondary": "1.13"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Shortland)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Shortland)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Sydney)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Sydney)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Greens (Sydney)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Sydney)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Zali Steggall-IND(Warringah)",
+    "odds_primary": null,
+    "odds_secondary": "1.06"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Warringah)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Warringah)",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Warringah)",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Watson)",
+    "odds_primary": null,
+    "odds_secondary": "1.04"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Ziad Basyouny-IND (Watson)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Watson)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Watson)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Wentworth)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Wentworth)",
+    "odds_primary": null,
+    "odds_secondary": "4.50"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "A Spender-IND(Wentworth)",
+    "odds_primary": null,
+    "odds_secondary": "1.15"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Wentworth)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Werriwa)",
+    "odds_primary": null,
+    "odds_secondary": "1.33"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Werriwa)",
+    "odds_primary": null,
+    "odds_secondary": "3.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Werriwa)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Labor (Whitlam)",
+    "odds_primary": null,
+    "odds_secondary": "1.15"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Coalition (Whitlam)",
+    "odds_primary": null,
+    "odds_secondary": "4.75"
+  },
+  {
+    "state": "Seat NSW",
+    "party_seat": "Any Other (Whitlam)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Ballarat)",
+    "odds_primary": null,
+    "odds_secondary": "1.04"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Ballarat)",
+    "odds_primary": null,
+    "odds_secondary": "8.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Ballarat)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Bruce)",
+    "odds_primary": null,
+    "odds_secondary": "1.22"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Bruce)",
+    "odds_primary": null,
+    "odds_secondary": "3.85"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Bruce)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Calwell)",
+    "odds_primary": null,
+    "odds_secondary": "1.04"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Calwell)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Calwell)",
+    "odds_primary": null,
+    "odds_secondary": "8.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Casey)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Casey)",
+    "odds_primary": null,
+    "odds_secondary": "1.13"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "C Ferres Miles-IND (Casey)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Casey)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Corangamite)",
+    "odds_primary": null,
+    "odds_secondary": "1.13"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Corangamite)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Corangamite)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Corio)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Corio)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Corio)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Dunkley)",
+    "odds_primary": null,
+    "odds_secondary": "1.22"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Dunkley)",
+    "odds_primary": null,
+    "odds_secondary": "3.85"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Dunkley)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Flinders)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Flinders)",
+    "odds_primary": null,
+    "odds_secondary": "1.25"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Flinders)",
+    "odds_primary": null,
+    "odds_secondary": "3.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Fraser)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Fraser)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Greens (Fraser)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Fraser)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Gellibrand)",
+    "odds_primary": null,
+    "odds_secondary": "1.02"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Gellibrand)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Gellibrand)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Gippsland)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Gippsland)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Gippsland)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Gorton)",
+    "odds_primary": null,
+    "odds_secondary": "1.05"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Gorton)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Gorton)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Holt)",
+    "odds_primary": null,
+    "odds_secondary": "1.13"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Holt)",
+    "odds_primary": null,
+    "odds_secondary": "4.75"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Holt)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Hotham)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Hotham)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Hotham)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Indi)",
+    "odds_primary": null,
+    "odds_secondary": "23.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Indi)",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Helen Haines-IND (Indi)",
+    "odds_primary": null,
+    "odds_secondary": "1.10"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Indi)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Isaacs)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Isaacs)",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Isaacs)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Jagajaga)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Jagajaga)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Jagajaga)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (La Trobe)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (La Trobe)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (La Trobe)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Lalor)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Lalor)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Lalor)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Mallee)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Mallee)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Mallee)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Maribyrnong)",
+    "odds_primary": null,
+    "odds_secondary": "1.02"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Maribyrnong)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Maribyrnong)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Monash)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Monash)",
+    "odds_primary": null,
+    "odds_secondary": "1.42"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "R Broadbent-IND (Monash)",
+    "odds_primary": null,
+    "odds_secondary": "4.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Monash)",
+    "odds_primary": null,
+    "odds_secondary": "5.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Nicholls)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Nicholls)",
+    "odds_primary": null,
+    "odds_secondary": "1.04"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Nicholls)",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Scullin)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Scullin)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Scullin)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Aston)",
+    "odds_primary": null,
+    "odds_secondary": "1.20"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Aston)",
+    "odds_primary": null,
+    "odds_secondary": "4.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Aston)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Bendigo)",
+    "odds_primary": null,
+    "odds_secondary": "1.10"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Bendigo)",
+    "odds_primary": null,
+    "odds_secondary": "5.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Bendigo)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Chisholm)",
+    "odds_primary": null,
+    "odds_secondary": "1.80"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Chisholm)",
+    "odds_primary": null,
+    "odds_secondary": "1.90"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Chisholm)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Cooper)",
+    "odds_primary": null,
+    "odds_secondary": "1.08"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Greens (Cooper)",
+    "odds_primary": null,
+    "odds_secondary": "6.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Cooper)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Cooper)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Deakin)",
+    "odds_primary": null,
+    "odds_secondary": "1.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Deakin)",
+    "odds_primary": null,
+    "odds_secondary": "2.45"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Deakin)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Zoe Daniel-IND (Goldstein)",
+    "odds_primary": null,
+    "odds_secondary": "1.72"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Goldstein)",
+    "odds_primary": null,
+    "odds_secondary": "2.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Goldstein)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Goldstein)",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Hawke)",
+    "odds_primary": null,
+    "odds_secondary": "1.24"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Hawke)",
+    "odds_primary": null,
+    "odds_secondary": "3.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Hawke)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Kooyong)",
+    "odds_primary": null,
+    "odds_secondary": "1.72"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Monique Ryan-IND (Kooyong)",
+    "odds_primary": null,
+    "odds_secondary": "2.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Kooyong)",
+    "odds_primary": null,
+    "odds_secondary": "51.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Kooyong)",
+    "odds_primary": null,
+    "odds_secondary": "51.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Macnamara)",
+    "odds_primary": null,
+    "odds_secondary": "1.95"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Greens (Macnamara)",
+    "odds_primary": null,
+    "odds_secondary": "2.40"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Macnamara)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Macnamara)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (McEwen)",
+    "odds_primary": null,
+    "odds_secondary": "1.80"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (McEwen)",
+    "odds_primary": null,
+    "odds_secondary": "1.90"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (McEwen)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Greens (Melbourne)",
+    "odds_primary": null,
+    "odds_secondary": "1.06"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Melbourne)",
+    "odds_primary": null,
+    "odds_secondary": "7.50"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Melbourne)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Melbourne)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Menzies)",
+    "odds_primary": null,
+    "odds_secondary": "1.18"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Menzies)",
+    "odds_primary": null,
+    "odds_secondary": "4.25"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Menzies)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Wannon)",
+    "odds_primary": null,
+    "odds_secondary": "1.75"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Alex Dyson-IND (Wannon)",
+    "odds_primary": null,
+    "odds_secondary": "1.95"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Wannon)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Wannon)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Labor (Wills)",
+    "odds_primary": null,
+    "odds_secondary": "1.60"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Greens (Wills)",
+    "odds_primary": null,
+    "odds_secondary": "2.15"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Any Other (Wills)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat VIC",
+    "party_seat": "Coalition (Wills)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Blair)",
+    "odds_primary": null,
+    "odds_secondary": "1.20"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Blair)",
+    "odds_primary": null,
+    "odds_secondary": "3.80"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Blair)",
+    "odds_primary": null,
+    "odds_secondary": "12.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Bonner)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Bonner)",
+    "odds_primary": null,
+    "odds_secondary": "1.12"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Bonner)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Bowman)",
+    "odds_primary": null,
+    "odds_secondary": "12.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Bowman)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Bowman)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Brisbane)",
+    "odds_primary": null,
+    "odds_secondary": "2.10"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Brisbane)",
+    "odds_primary": null,
+    "odds_secondary": "3.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Greens (Brisbane)",
+    "odds_primary": null,
+    "odds_secondary": "2.55"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Brisbane)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Capricornia)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Capricornia)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Capricornia)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Dawson)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Dawson)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Dawson)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Fadden)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Fadden)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Fadden)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Fairfax)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Fairfax)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Fairfax)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Fisher)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Fisher)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Fisher)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Flynn)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Flynn)",
+    "odds_primary": null,
+    "odds_secondary": "1.07"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Flynn)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Forde)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Forde)",
+    "odds_primary": null,
+    "odds_secondary": "1.06"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Forde)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Groom)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Groom)",
+    "odds_primary": null,
+    "odds_secondary": "1.08"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Suzie Holt-IND (Groom)",
+    "odds_primary": null,
+    "odds_secondary": "6.50"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Groom)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Herbert)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Herbert)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Herbert)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Hinkler)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Hinkler)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Hinkler)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Leichhardt)",
+    "odds_primary": null,
+    "odds_secondary": "2.35"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Leichhardt)",
+    "odds_primary": null,
+    "odds_secondary": "1.50"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Leichhardt)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Lilley)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Lilley)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Lilley)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Longman)",
+    "odds_primary": null,
+    "odds_secondary": "4.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Longman)",
+    "odds_primary": null,
+    "odds_secondary": "1.18"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Longman)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Moncrieff)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Moncrieff)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Moncrieff)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Moreton)",
+    "odds_primary": null,
+    "odds_secondary": "1.05"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Moreton)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Greens (Moreton)",
+    "odds_primary": null,
+    "odds_secondary": "12.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Moreton)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Oxley)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Oxley)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Oxley)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Petrie)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Petrie)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Petrie)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Wide Bay)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Wide Bay)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Wide Bay)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Wright)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Wright)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Wright)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Dickson)",
+    "odds_primary": null,
+    "odds_secondary": "1.53"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Dickson)",
+    "odds_primary": null,
+    "odds_secondary": "2.65"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Dickson)",
+    "odds_primary": null,
+    "odds_secondary": "7.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Greens (Griffith)",
+    "odds_primary": null,
+    "odds_secondary": "1.55"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Griffith)",
+    "odds_primary": null,
+    "odds_secondary": "2.30"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Griffith)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Griffith)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Katters AP (Kennedy)",
+    "odds_primary": null,
+    "odds_secondary": "1.02"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Kennedy)",
+    "odds_primary": null,
+    "odds_secondary": "11.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Kennedy)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Kennedy)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Maranoa)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "One Nation (Maranoa)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Maranoa)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Maranoa)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (McPherson)",
+    "odds_primary": null,
+    "odds_secondary": "1.38"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "E MurrayBarlett-IND(McPhrsn)",
+    "odds_primary": null,
+    "odds_secondary": "2.80"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (McPherson)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (McPherson)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Rankin)",
+    "odds_primary": null,
+    "odds_secondary": "1.02"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Rankin)",
+    "odds_primary": null,
+    "odds_secondary": "12.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Rankin)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Coalition (Ryan)",
+    "odds_primary": null,
+    "odds_secondary": "1.85"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Greens (Ryan)",
+    "odds_primary": null,
+    "odds_secondary": "2.80"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Labor (Ryan)",
+    "odds_primary": null,
+    "odds_secondary": "4.25"
+  },
+  {
+    "state": "Seat QLD",
+    "party_seat": "Any Other (Ryan)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Brand)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Brand)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Brand)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Bullwinkel)",
+    "odds_primary": null,
+    "odds_secondary": "1.65"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Bullwinkel)",
+    "odds_primary": null,
+    "odds_secondary": "2.10"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Bullwinkel)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Burt)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Burt)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Burt)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Canning)",
+    "odds_primary": null,
+    "odds_secondary": "3.75"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Canning)",
+    "odds_primary": null,
+    "odds_secondary": "1.22"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Canning)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Cowan)",
+    "odds_primary": null,
+    "odds_secondary": "1.04"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Cowan)",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Cowan)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Curtin)",
+    "odds_primary": null,
+    "odds_secondary": "1.85"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Kate Chaney-IND (Curtin)",
+    "odds_primary": null,
+    "odds_secondary": "1.85"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Curtin)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Curtin)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Durack)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Durack)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Durack)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Forrest)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Forrest)",
+    "odds_primary": null,
+    "odds_secondary": "1.22"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Sue Chapman-IND (Forrest)",
+    "odds_primary": null,
+    "odds_secondary": "3.85"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Forrest)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Fremantle)",
+    "odds_primary": null,
+    "odds_secondary": "1.20"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Fremantle)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Fremantle)",
+    "odds_primary": null,
+    "odds_secondary": "4.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Hasluck)",
+    "odds_primary": null,
+    "odds_secondary": "1.12"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Hasluck)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Hasluck)",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Moore)",
+    "odds_primary": null,
+    "odds_secondary": "1.65"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Moore)",
+    "odds_primary": null,
+    "odds_secondary": "2.50"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Ian Goodenough-IND (Moore)",
+    "odds_primary": null,
+    "odds_secondary": "8.50"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Moore)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (OConnor)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (OConnor)",
+    "odds_primary": null,
+    "odds_secondary": "1.05"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (OConnor)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Pearce)",
+    "odds_primary": null,
+    "odds_secondary": "1.30"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Pearce)",
+    "odds_primary": null,
+    "odds_secondary": "3.10"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Pearce)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Perth)",
+    "odds_primary": null,
+    "odds_secondary": "1.06"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Perth)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Greens (Perth)",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Perth)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Swan)",
+    "odds_primary": null,
+    "odds_secondary": "1.12"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Swan)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Swan)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Labor (Tangney)",
+    "odds_primary": null,
+    "odds_secondary": "1.42"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Coalition (Tangney)",
+    "odds_primary": null,
+    "odds_secondary": "2.65"
+  },
+  {
+    "state": "Seat WA",
+    "party_seat": "Any Other (Tangney)",
+    "odds_primary": null,
+    "odds_secondary": "34.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Adelaide)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Adelaide)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Greens (Adelaide)",
+    "odds_primary": null,
+    "odds_secondary": "19.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Adelaide)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Barker)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Barker)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Barker)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Grey)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Grey)",
+    "odds_primary": null,
+    "odds_secondary": "1.08"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Grey)",
+    "odds_primary": null,
+    "odds_secondary": "6.50"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Hindmarsh)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Hindmarsh)",
+    "odds_primary": null,
+    "odds_secondary": "9.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Hindmarsh)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Kingston)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Kingston)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Kingston)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Makin)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Makin)",
+    "odds_primary": null,
+    "odds_secondary": "13.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Makin)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Mayo)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Mayo)",
+    "odds_primary": null,
+    "odds_secondary": "5.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Centre Alliance (Mayo)",
+    "odds_primary": null,
+    "odds_secondary": "1.14"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Mayo)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Spence)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Spence)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Spence)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Boothby)",
+    "odds_primary": null,
+    "odds_secondary": "1.42"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Boothby)",
+    "odds_primary": null,
+    "odds_secondary": "2.65"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Boothby)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Coalition (Sturt)",
+    "odds_primary": null,
+    "odds_secondary": "1.40"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Labor (Sturt)",
+    "odds_primary": null,
+    "odds_secondary": "2.70"
+  },
+  {
+    "state": "Seat SA",
+    "party_seat": "Any Other (Sturt)",
+    "odds_primary": null,
+    "odds_secondary": "8.00"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Labor (Bean)",
+    "odds_primary": null,
+    "odds_secondary": "1.03"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Coalition (Bean)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Any Other (Bean)",
+    "odds_primary": null,
+    "odds_secondary": "8.50"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Labor (Canberra)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Coalition (Canberra)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Greens (Canberra)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Any Other (Canberra)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Labor (Fenner)",
+    "odds_primary": null,
+    "odds_secondary": "1.01"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Coalition (Fenner)",
+    "odds_primary": null,
+    "odds_secondary": "10.00"
+  },
+  {
+    "state": "Seat ACT",
+    "party_seat": "Any Other (Fenner)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Labor (Bass)",
+    "odds_primary": null,
+    "odds_secondary": "3.25"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Coalition (Bass)",
+    "odds_primary": null,
+    "odds_secondary": "1.30"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Any Other (Bass)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Labor (Braddon)",
+    "odds_primary": null,
+    "odds_secondary": "5.50"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Coalition (Braddon)",
+    "odds_primary": null,
+    "odds_secondary": "1.11"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Any Other (Braddon)",
+    "odds_primary": null,
+    "odds_secondary": "15.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Labor (Clark)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Coalition (Clark)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Andrew Wilkie - IND (Clark)",
+    "odds_primary": null,
+    "odds_secondary": "SUSP"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Any Other (Clark)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Labor (Franklin)",
+    "odds_primary": null,
+    "odds_secondary": "1.06"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Coalition (Franklin)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Greens (Franklin)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Any Other (Franklin)",
+    "odds_primary": null,
+    "odds_secondary": "6.50"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Labor (Lyons)",
+    "odds_primary": null,
+    "odds_secondary": "1.80"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Coalition (Lyons)",
+    "odds_primary": null,
+    "odds_secondary": "1.90"
+  },
+  {
+    "state": "Seat TAS",
+    "party_seat": "Any Other (Lyons)",
+    "odds_primary": null,
+    "odds_secondary": "21.00"
+  },
+  {
+    "state": "Seat NT",
+    "party_seat": "Labor (Solomon)",
+    "odds_primary": null,
+    "odds_secondary": "1.28"
+  },
+  {
+    "state": "Seat NT",
+    "party_seat": "Coalition (Solomon)",
+    "odds_primary": null,
+    "odds_secondary": "3.30"
+  },
+  {
+    "state": "Seat NT",
+    "party_seat": "Any Other (Solomon)",
+    "odds_primary": null,
+    "odds_secondary": "17.00"
+  },
+  {
+    "state": "Seat NT",
+    "party_seat": "Labor (Lingiari)",
+    "odds_primary": null,
+    "odds_secondary": "1.60"
+  },
+  {
+    "state": "Seat NT",
+    "party_seat": "Coalition (Lingiari)",
+    "odds_primary": null,
+    "odds_secondary": "2.20"
+  },
+  {
+    "state": "Seat NT",
+    "party_seat": "Any Other (Lingiari)",
+    "odds_primary": null,
+    "odds_secondary": "26.00"
+  }
+]

@@ -1,0 +1,4439 @@
+[
+  {
+    "id": "209192701-market-item",
+    "electorate": "Banks (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.096,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209192701-market-item",
+    "electorate": "Banks (NSW)",
+    "candidate": "Labor",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.096,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209192701-market-item",
+    "electorate": "Banks (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.096,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209192784-market-item",
+    "electorate": "Barton (NSW)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.101,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209192784-market-item",
+    "electorate": "Barton (NSW)",
+    "candidate": "Coalition",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.101,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209192784-market-item",
+    "electorate": "Barton (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 23,
+    "podds": 0.0435,
+    "electorate_podds": 1.101,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206871293-market-item",
+    "electorate": "Bennelong (NSW)",
+    "candidate": "Coalition",
+    "price": 1.28,
+    "podds": 0.7812,
+    "electorate_podds": 1.1274,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206871293-market-item",
+    "electorate": "Bennelong (NSW)",
+    "candidate": "Labor",
+    "price": 3.25,
+    "podds": 0.3077,
+    "electorate_podds": 1.1274,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206871293-market-item",
+    "electorate": "Bennelong (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1274,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209192882-market-item",
+    "electorate": "Berowra (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1218,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209192882-market-item",
+    "electorate": "Berowra (NSW)",
+    "candidate": "Labor",
+    "price": 23,
+    "podds": 0.0435,
+    "electorate_podds": 1.1218,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209192882-market-item",
+    "electorate": "Berowra (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1218,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205854486-market-item",
+    "electorate": "Blaxland (NSW)",
+    "candidate": "Labor",
+    "price": 1.1,
+    "podds": 0.9091,
+    "electorate_podds": 1.1764,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205854486-market-item",
+    "electorate": "Blaxland (NSW)",
+    "candidate": "Coalition",
+    "price": 7.25,
+    "podds": 0.1379,
+    "electorate_podds": 1.1764,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205854486-market-item",
+    "electorate": "Blaxland (NSW)",
+    "candidate": "Independent",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.1764,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "205854486-market-item",
+    "electorate": "Blaxland (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1764,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206871472-market-item",
+    "electorate": "Bradfield (NSW)",
+    "candidate": "Coalition",
+    "price": 1.75,
+    "podds": 0.5714,
+    "electorate_podds": 1.1612,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206871472-market-item",
+    "electorate": "Bradfield (NSW)",
+    "candidate": "Independent",
+    "price": 1.95,
+    "podds": 0.5128,
+    "electorate_podds": 1.1612,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "206871472-market-item",
+    "electorate": "Bradfield (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1612,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206871472-market-item",
+    "electorate": "Bradfield (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1612,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206871779-market-item",
+    "electorate": "Calare (NSW)",
+    "candidate": "Coalition",
+    "price": 1.6,
+    "podds": 0.625,
+    "electorate_podds": 1.1716,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206871779-market-item",
+    "electorate": "Calare (NSW)",
+    "candidate": "Independent",
+    "price": 2.45,
+    "podds": 0.4082,
+    "electorate_podds": 1.1716,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "206871779-market-item",
+    "electorate": "Calare (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1716,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206871779-market-item",
+    "electorate": "Calare (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1716,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209192944-market-item",
+    "electorate": "Chifley (NSW)",
+    "candidate": "Labor",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.13,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209192944-market-item",
+    "electorate": "Chifley (NSW)",
+    "candidate": "Coalition",
+    "price": 9,
+    "podds": 0.1111,
+    "electorate_podds": 1.13,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209192944-market-item",
+    "electorate": "Chifley (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.13,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193029-market-item",
+    "electorate": "Cook (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193029-market-item",
+    "electorate": "Cook (NSW)",
+    "candidate": "Labor",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193029-market-item",
+    "electorate": "Cook (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207101308-market-item",
+    "electorate": "Cowper (NSW)",
+    "candidate": "Coalition",
+    "price": 1.63,
+    "podds": 0.6135,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207101308-market-item",
+    "electorate": "Cowper (NSW)",
+    "candidate": "Independent",
+    "price": 2.14,
+    "podds": 0.4673,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "207101308-market-item",
+    "electorate": "Cowper (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207101308-market-item",
+    "electorate": "Cowper (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193132-market-item",
+    "electorate": "Cunningham (NSW)",
+    "candidate": "Labor",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.157,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193132-market-item",
+    "electorate": "Cunningham (NSW)",
+    "candidate": "Greens",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.157,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "209193132-market-item",
+    "electorate": "Cunningham (NSW)",
+    "candidate": "Coalition",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.157,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193132-market-item",
+    "electorate": "Cunningham (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.157,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193172-market-item",
+    "electorate": "Dobell (NSW)",
+    "candidate": "Labor",
+    "price": 1.24,
+    "podds": 0.8065,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193172-market-item",
+    "electorate": "Dobell (NSW)",
+    "candidate": "Coalition",
+    "price": 3.9,
+    "podds": 0.2564,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193172-market-item",
+    "electorate": "Dobell (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208715704-market-item",
+    "electorate": "Eden-Monaro (NSW)",
+    "candidate": "Labor",
+    "price": 1.28,
+    "podds": 0.7812,
+    "electorate_podds": 1.1319,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208715704-market-item",
+    "electorate": "Eden-Monaro (NSW)",
+    "candidate": "Coalition",
+    "price": 3.3,
+    "podds": 0.303,
+    "electorate_podds": 1.1319,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208715704-market-item",
+    "electorate": "Eden-Monaro (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1319,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193218-market-item",
+    "electorate": "Farrer (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1244,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193218-market-item",
+    "electorate": "Farrer (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1244,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193218-market-item",
+    "electorate": "Farrer (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.1244,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206867665-market-item",
+    "electorate": "Fowler (NSW)",
+    "candidate": "Independent",
+    "price": 1.35,
+    "podds": 0.7407,
+    "electorate_podds": 1.1617,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "206867665-market-item",
+    "electorate": "Fowler (NSW)",
+    "candidate": "Labor",
+    "price": 2.95,
+    "podds": 0.339,
+    "electorate_podds": 1.1617,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206867665-market-item",
+    "electorate": "Fowler (NSW)",
+    "candidate": "Coalition",
+    "price": 23,
+    "podds": 0.0435,
+    "electorate_podds": 1.1617,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206867665-market-item",
+    "electorate": "Fowler (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1617,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207101593-market-item",
+    "electorate": "Gilmore (NSW)",
+    "candidate": "Coalition",
+    "price": 1.18,
+    "podds": 0.8475,
+    "electorate_podds": 1.1436,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207101593-market-item",
+    "electorate": "Gilmore (NSW)",
+    "candidate": "Labor",
+    "price": 4.7,
+    "podds": 0.2128,
+    "electorate_podds": 1.1436,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207101593-market-item",
+    "electorate": "Gilmore (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1436,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205854917-market-item",
+    "electorate": "Grayndler (NSW)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1387,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205854917-market-item",
+    "electorate": "Grayndler (NSW)",
+    "candidate": "Coalition",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1387,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205854917-market-item",
+    "electorate": "Grayndler (NSW)",
+    "candidate": "Greens",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1387,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "205854917-market-item",
+    "electorate": "Grayndler (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1387,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193233-market-item",
+    "electorate": "Greenway (NSW)",
+    "candidate": "Labor",
+    "price": 1.1,
+    "podds": 0.9091,
+    "electorate_podds": 1.138,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193233-market-item",
+    "electorate": "Greenway (NSW)",
+    "candidate": "Coalition",
+    "price": 5.25,
+    "podds": 0.1905,
+    "electorate_podds": 1.138,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193233-market-item",
+    "electorate": "Greenway (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.138,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193284-market-item",
+    "electorate": "Hughes (NSW)",
+    "candidate": "Coalition",
+    "price": 1.04,
+    "podds": 0.9615,
+    "electorate_podds": 1.1379,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193284-market-item",
+    "electorate": "Hughes (NSW)",
+    "candidate": "Labor",
+    "price": 7.25,
+    "podds": 0.1379,
+    "electorate_podds": 1.1379,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193284-market-item",
+    "electorate": "Hughes (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1379,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193428-market-item",
+    "electorate": "Hume (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.0953,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193428-market-item",
+    "electorate": "Hume (NSW)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.0953,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193428-market-item",
+    "electorate": "Hume (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.0953,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207101862-market-item",
+    "electorate": "Hunter (NSW)",
+    "candidate": "Labor",
+    "price": 1.35,
+    "podds": 0.7407,
+    "electorate_podds": 1.1547,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207101862-market-item",
+    "electorate": "Hunter (NSW)",
+    "candidate": "Coalition",
+    "price": 3.05,
+    "podds": 0.3279,
+    "electorate_podds": 1.1547,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207101862-market-item",
+    "electorate": "Hunter (NSW)",
+    "candidate": "One Nation",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1547,
+    "candidate_adj": "One Nation"
+  },
+  {
+    "id": "207101862-market-item",
+    "electorate": "Hunter (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1547,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193440-market-item",
+    "electorate": "Kingsford Smith (NSW)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1359,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193440-market-item",
+    "electorate": "Kingsford Smith (NSW)",
+    "candidate": "Coalition",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1359,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193440-market-item",
+    "electorate": "Kingsford Smith (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1359,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193448-market-item",
+    "electorate": "Lindsay (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193448-market-item",
+    "electorate": "Lindsay (NSW)",
+    "candidate": "Labor",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193448-market-item",
+    "electorate": "Lindsay (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193459-market-item",
+    "electorate": "Lyne (NSW)",
+    "candidate": "Coalition",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1195,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193459-market-item",
+    "electorate": "Lyne (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1195,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193459-market-item",
+    "electorate": "Lyne (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.1195,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193486-market-item",
+    "electorate": "Macarthur (NSW)",
+    "candidate": "Labor",
+    "price": 1.08,
+    "podds": 0.9259,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193486-market-item",
+    "electorate": "Macarthur (NSW)",
+    "candidate": "Coalition",
+    "price": 6,
+    "podds": 0.1667,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193486-market-item",
+    "electorate": "Macarthur (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207103400-market-item",
+    "electorate": "Mackellar (NSW)",
+    "candidate": "Independent",
+    "price": 1.37,
+    "podds": 0.7299,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "207103400-market-item",
+    "electorate": "Mackellar (NSW)",
+    "candidate": "Coalition",
+    "price": 2.85,
+    "podds": 0.3509,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207103400-market-item",
+    "electorate": "Mackellar (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207103400-market-item",
+    "electorate": "Mackellar (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1577,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193519-market-item",
+    "electorate": "Macquarie (NSW)",
+    "candidate": "Labor",
+    "price": 1.31,
+    "podds": 0.7634,
+    "electorate_podds": 1.1386,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193519-market-item",
+    "electorate": "Macquarie (NSW)",
+    "candidate": "Coalition",
+    "price": 3.1,
+    "podds": 0.3226,
+    "electorate_podds": 1.1386,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193519-market-item",
+    "electorate": "Macquarie (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1386,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193533-market-item",
+    "electorate": "McMahon (NSW)",
+    "candidate": "Labor",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1375,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193533-market-item",
+    "electorate": "McMahon (NSW)",
+    "candidate": "Coalition",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1375,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193533-market-item",
+    "electorate": "McMahon (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1375,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193821-market-item",
+    "electorate": "Mitchell (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193821-market-item",
+    "electorate": "Mitchell (NSW)",
+    "candidate": "Labor",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193821-market-item",
+    "electorate": "Mitchell (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1002,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860555-market-item",
+    "electorate": "New England (NSW)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1244,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860555-market-item",
+    "electorate": "New England (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1244,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860555-market-item",
+    "electorate": "New England (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.1244,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193828-market-item",
+    "electorate": "Newcastle (NSW)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.152,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193828-market-item",
+    "electorate": "Newcastle (NSW)",
+    "candidate": "Greens",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.152,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "209193828-market-item",
+    "electorate": "Newcastle (NSW)",
+    "candidate": "Coalition",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.152,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193828-market-item",
+    "electorate": "Newcastle (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.152,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208719418-market-item",
+    "electorate": "Page (NSW)",
+    "candidate": "Coalition",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1375,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208719418-market-item",
+    "electorate": "Page (NSW)",
+    "candidate": "Labor",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1375,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208719418-market-item",
+    "electorate": "Page (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1375,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193841-market-item",
+    "electorate": "Parkes (NSW)",
+    "candidate": "Coalition",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1286,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193841-market-item",
+    "electorate": "Parkes (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1286,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193841-market-item",
+    "electorate": "Parkes (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1286,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208719746-market-item",
+    "electorate": "Parramatta (NSW)",
+    "candidate": "Labor",
+    "price": 1.19,
+    "podds": 0.8403,
+    "electorate_podds": 1.1352,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208719746-market-item",
+    "electorate": "Parramatta (NSW)",
+    "candidate": "Coalition",
+    "price": 3.9,
+    "podds": 0.2564,
+    "electorate_podds": 1.1352,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208719746-market-item",
+    "electorate": "Parramatta (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1352,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208720202-market-item",
+    "electorate": "Paterson (NSW)",
+    "candidate": "Coalition",
+    "price": 1.63,
+    "podds": 0.6135,
+    "electorate_podds": 1.1407,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208720202-market-item",
+    "electorate": "Paterson (NSW)",
+    "candidate": "Labor",
+    "price": 2.37,
+    "podds": 0.4219,
+    "electorate_podds": 1.1407,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208720202-market-item",
+    "electorate": "Paterson (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 9.5,
+    "podds": 0.1053,
+    "electorate_podds": 1.1407,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208722773-market-item",
+    "electorate": "Reid (NSW)",
+    "candidate": "Labor",
+    "price": 1.41,
+    "podds": 0.7092,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208722773-market-item",
+    "electorate": "Reid (NSW)",
+    "candidate": "Coalition",
+    "price": 2.62,
+    "podds": 0.3817,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208722773-market-item",
+    "electorate": "Reid (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193866-market-item",
+    "electorate": "Richmond (NSW)",
+    "candidate": "Labor",
+    "price": 1.48,
+    "podds": 0.6757,
+    "electorate_podds": 1.1609,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193866-market-item",
+    "electorate": "Richmond (NSW)",
+    "candidate": "Greens",
+    "price": 3.3,
+    "podds": 0.303,
+    "electorate_podds": 1.1609,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "209193866-market-item",
+    "electorate": "Richmond (NSW)",
+    "candidate": "Coalition",
+    "price": 9.5,
+    "podds": 0.1053,
+    "electorate_podds": 1.1609,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193866-market-item",
+    "electorate": "Richmond (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1609,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209193985-market-item",
+    "electorate": "Riverina (NSW)",
+    "candidate": "Coalition",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.13,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209193985-market-item",
+    "electorate": "Riverina (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.13,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209193985-market-item",
+    "electorate": "Riverina (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 9,
+    "podds": 0.1111,
+    "electorate_podds": 1.13,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207106646-market-item",
+    "electorate": "Robertson (NSW)",
+    "candidate": "Coalition",
+    "price": 1.75,
+    "podds": 0.5714,
+    "electorate_podds": 1.128,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207106646-market-item",
+    "electorate": "Robertson (NSW)",
+    "candidate": "Labor",
+    "price": 1.93,
+    "podds": 0.5181,
+    "electorate_podds": 1.128,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207106646-market-item",
+    "electorate": "Robertson (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.128,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209194049-market-item",
+    "electorate": "Shortland (NSW)",
+    "candidate": "Labor",
+    "price": 1.13,
+    "podds": 0.885,
+    "electorate_podds": 1.1234,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209194049-market-item",
+    "electorate": "Shortland (NSW)",
+    "candidate": "Coalition",
+    "price": 5,
+    "podds": 0.2,
+    "electorate_podds": 1.1234,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209194049-market-item",
+    "electorate": "Shortland (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1234,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209194077-market-item",
+    "electorate": "Sydney (NSW)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1579,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209194077-market-item",
+    "electorate": "Sydney (NSW)",
+    "candidate": "Greens",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.1579,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "209194077-market-item",
+    "electorate": "Sydney (NSW)",
+    "candidate": "Coalition",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1579,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209194077-market-item",
+    "electorate": "Sydney (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1579,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205856622-market-item",
+    "electorate": "Warringah (NSW)",
+    "candidate": "Independent",
+    "price": 1.14,
+    "podds": 0.8772,
+    "electorate_podds": 1.1669,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "205856622-market-item",
+    "electorate": "Warringah (NSW)",
+    "candidate": "Coalition",
+    "price": 4.7,
+    "podds": 0.2128,
+    "electorate_podds": 1.1669,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205856622-market-item",
+    "electorate": "Warringah (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1669,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205856622-market-item",
+    "electorate": "Warringah (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1669,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860553-market-item",
+    "electorate": "Watson (NSW)",
+    "candidate": "Labor",
+    "price": 1.04,
+    "podds": 0.9615,
+    "electorate_podds": 1.1736,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860553-market-item",
+    "electorate": "Watson (NSW)",
+    "candidate": "Independent",
+    "price": 9,
+    "podds": 0.1111,
+    "electorate_podds": 1.1736,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "205860553-market-item",
+    "electorate": "Watson (NSW)",
+    "candidate": "Coalition",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1736,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860553-market-item",
+    "electorate": "Watson (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1736,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208723580-market-item",
+    "electorate": "Wentworth (NSW)",
+    "candidate": "Independent",
+    "price": 1.2,
+    "podds": 0.8333,
+    "electorate_podds": 1.1667,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "208723580-market-item",
+    "electorate": "Wentworth (NSW)",
+    "candidate": "Coalition",
+    "price": 3.9,
+    "podds": 0.2564,
+    "electorate_podds": 1.1667,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208723580-market-item",
+    "electorate": "Wentworth (NSW)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1667,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208723580-market-item",
+    "electorate": "Wentworth (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1667,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208723608-market-item",
+    "electorate": "Werriwa (NSW)",
+    "candidate": "Labor",
+    "price": 1.43,
+    "podds": 0.6993,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208723608-market-item",
+    "electorate": "Werriwa (NSW)",
+    "candidate": "Coalition",
+    "price": 2.5,
+    "podds": 0.4,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208723608-market-item",
+    "electorate": "Werriwa (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209194088-market-item",
+    "electorate": "Whitlam (NSW)",
+    "candidate": "Labor",
+    "price": 1.25,
+    "podds": 0.8,
+    "electorate_podds": 1.1383,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209194088-market-item",
+    "electorate": "Whitlam (NSW)",
+    "candidate": "Coalition",
+    "price": 3.5,
+    "podds": 0.2857,
+    "electorate_podds": 1.1383,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209194088-market-item",
+    "electorate": "Whitlam (NSW)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1383,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207107000-market-item",
+    "electorate": "Goldstein (VIC)",
+    "candidate": "Independent",
+    "price": 1.63,
+    "podds": 0.6135,
+    "electorate_podds": 1.1666,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "207107000-market-item",
+    "electorate": "Goldstein (VIC)",
+    "candidate": "Coalition",
+    "price": 2.1,
+    "podds": 0.4762,
+    "electorate_podds": 1.1666,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207107000-market-item",
+    "electorate": "Goldstein (VIC)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1666,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207107000-market-item",
+    "electorate": "Goldstein (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1666,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207147174-market-item",
+    "electorate": "Kooyong (VIC)",
+    "candidate": "Coalition",
+    "price": 1.8,
+    "podds": 0.5556,
+    "electorate_podds": 1.1672,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207147174-market-item",
+    "electorate": "Kooyong (VIC)",
+    "candidate": "Independent",
+    "price": 1.87,
+    "podds": 0.5348,
+    "electorate_podds": 1.1672,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "207147174-market-item",
+    "electorate": "Kooyong (VIC)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1672,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207147174-market-item",
+    "electorate": "Kooyong (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1672,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206867074-market-item",
+    "electorate": "Aston (VIC)",
+    "candidate": "Coalition",
+    "price": 1.17,
+    "podds": 0.8547,
+    "electorate_podds": 1.1285,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206867074-market-item",
+    "electorate": "Aston (VIC)",
+    "candidate": "Labor",
+    "price": 4.25,
+    "podds": 0.2353,
+    "electorate_podds": 1.1285,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206867074-market-item",
+    "electorate": "Aston (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1285,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209187841-market-item",
+    "electorate": "Ballarat (VIC)",
+    "candidate": "Labor",
+    "price": 1.05,
+    "podds": 0.9524,
+    "electorate_podds": 1.1399,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209187841-market-item",
+    "electorate": "Ballarat (VIC)",
+    "candidate": "Coalition",
+    "price": 8,
+    "podds": 0.125,
+    "electorate_podds": 1.1399,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209187841-market-item",
+    "electorate": "Ballarat (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1399,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208257820-market-item",
+    "electorate": "Bendigo (VIC)",
+    "candidate": "Labor",
+    "price": 1.09,
+    "podds": 0.9174,
+    "electorate_podds": 1.1298,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208257820-market-item",
+    "electorate": "Bendigo (VIC)",
+    "candidate": "Coalition",
+    "price": 5.75,
+    "podds": 0.1739,
+    "electorate_podds": 1.1298,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208257820-market-item",
+    "electorate": "Bendigo (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1298,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208709220-market-item",
+    "electorate": "Bruce (VIC)",
+    "candidate": "Labor",
+    "price": 1.43,
+    "podds": 0.6993,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208709220-market-item",
+    "electorate": "Bruce (VIC)",
+    "candidate": "Coalition",
+    "price": 2.5,
+    "podds": 0.4,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208709220-market-item",
+    "electorate": "Bruce (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209187923-market-item",
+    "electorate": "Calwell (VIC)",
+    "candidate": "Labor",
+    "price": 1.05,
+    "podds": 0.9524,
+    "electorate_podds": 1.1415,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209187923-market-item",
+    "electorate": "Calwell (VIC)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1415,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209187923-market-item",
+    "electorate": "Calwell (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 8.5,
+    "podds": 0.1176,
+    "electorate_podds": 1.1415,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208712760-market-item",
+    "electorate": "Casey (VIC)",
+    "candidate": "Coalition",
+    "price": 1.12,
+    "podds": 0.8929,
+    "electorate_podds": 1.1685,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208712760-market-item",
+    "electorate": "Casey (VIC)",
+    "candidate": "Labor",
+    "price": 6.5,
+    "podds": 0.1538,
+    "electorate_podds": 1.1685,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208712760-market-item",
+    "electorate": "Casey (VIC)",
+    "candidate": "Independent",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1685,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "208712760-market-item",
+    "electorate": "Casey (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1685,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206867756-market-item",
+    "electorate": "Chisholm (VIC)",
+    "candidate": "Coalition",
+    "price": 1.31,
+    "podds": 0.7634,
+    "electorate_podds": 1.1297,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206867756-market-item",
+    "electorate": "Chisholm (VIC)",
+    "candidate": "Labor",
+    "price": 3.05,
+    "podds": 0.3279,
+    "electorate_podds": 1.1297,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206867756-market-item",
+    "electorate": "Chisholm (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1297,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207101307-market-item",
+    "electorate": "Cooper (VIC)",
+    "candidate": "Labor",
+    "price": 1.06,
+    "podds": 0.9434,
+    "electorate_podds": 1.1632,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207101307-market-item",
+    "electorate": "Cooper (VIC)",
+    "candidate": "Greens",
+    "price": 7,
+    "podds": 0.1429,
+    "electorate_podds": 1.1632,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "207101307-market-item",
+    "electorate": "Cooper (VIC)",
+    "candidate": "Coalition",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1632,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207101307-market-item",
+    "electorate": "Cooper (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1632,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208713660-market-item",
+    "electorate": "Corangamite (VIC)",
+    "candidate": "Labor",
+    "price": 1.38,
+    "podds": 0.7246,
+    "electorate_podds": 1.1443,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208713660-market-item",
+    "electorate": "Corangamite (VIC)",
+    "candidate": "Coalition",
+    "price": 2.8,
+    "podds": 0.3571,
+    "electorate_podds": 1.1443,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208713660-market-item",
+    "electorate": "Corangamite (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1443,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209188116-market-item",
+    "electorate": "Corio (VIC)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1234,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209188116-market-item",
+    "electorate": "Corio (VIC)",
+    "candidate": "Coalition",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1234,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209188116-market-item",
+    "electorate": "Corio (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1234,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207103555-market-item",
+    "electorate": "Deakin (VIC)",
+    "candidate": "Coalition",
+    "price": 1.17,
+    "podds": 0.8547,
+    "electorate_podds": 1.1285,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207103555-market-item",
+    "electorate": "Deakin (VIC)",
+    "candidate": "Labor",
+    "price": 4.25,
+    "podds": 0.2353,
+    "electorate_podds": 1.1285,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207103555-market-item",
+    "electorate": "Deakin (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1285,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208713724-market-item",
+    "electorate": "Dunkley (VIC)",
+    "candidate": "Labor",
+    "price": 1.43,
+    "podds": 0.6993,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208713724-market-item",
+    "electorate": "Dunkley (VIC)",
+    "candidate": "Coalition",
+    "price": 2.5,
+    "podds": 0.4,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208713724-market-item",
+    "electorate": "Dunkley (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1378,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209188233-market-item",
+    "electorate": "Flinders (VIC)",
+    "candidate": "Coalition",
+    "price": 1.19,
+    "podds": 0.8403,
+    "electorate_podds": 1.1288,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209188233-market-item",
+    "electorate": "Flinders (VIC)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1288,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209188233-market-item",
+    "electorate": "Flinders (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 4,
+    "podds": 0.25,
+    "electorate_podds": 1.1288,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209188369-market-item",
+    "electorate": "Fraser (VIC)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1531,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209188369-market-item",
+    "electorate": "Fraser (VIC)",
+    "candidate": "Greens",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1531,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "209188369-market-item",
+    "electorate": "Fraser (VIC)",
+    "candidate": "Coalition",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1531,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209188369-market-item",
+    "electorate": "Fraser (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1531,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209188767-market-item",
+    "electorate": "Gellibrand (VIC)",
+    "candidate": "Labor",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.1232,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209188767-market-item",
+    "electorate": "Gellibrand (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1232,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209188767-market-item",
+    "electorate": "Gellibrand (VIC)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1232,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189192-market-item",
+    "electorate": "Gippsland (VIC)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.0861,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189192-market-item",
+    "electorate": "Gippsland (VIC)",
+    "candidate": "Labor",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.0861,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209189192-market-item",
+    "electorate": "Gippsland (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.0861,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209189261-market-item",
+    "electorate": "Gorton (VIC)",
+    "candidate": "Labor",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209189261-market-item",
+    "electorate": "Gorton (VIC)",
+    "candidate": "Coalition",
+    "price": 8,
+    "podds": 0.125,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189261-market-item",
+    "electorate": "Gorton (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206871480-market-item",
+    "electorate": "Hawke (VIC)",
+    "candidate": "Labor",
+    "price": 1.38,
+    "podds": 0.7246,
+    "electorate_podds": 1.1359,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206871480-market-item",
+    "electorate": "Hawke (VIC)",
+    "candidate": "Coalition",
+    "price": 2.75,
+    "podds": 0.3636,
+    "electorate_podds": 1.1359,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206871480-market-item",
+    "electorate": "Hawke (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1359,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209189606-market-item",
+    "electorate": "Holt (VIC)",
+    "candidate": "Labor",
+    "price": 1.16,
+    "podds": 0.8621,
+    "electorate_podds": 1.1358,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209189606-market-item",
+    "electorate": "Holt (VIC)",
+    "candidate": "Coalition",
+    "price": 4.25,
+    "podds": 0.2353,
+    "electorate_podds": 1.1358,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189606-market-item",
+    "electorate": "Holt (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1358,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209189699-market-item",
+    "electorate": "Hotham (VIC)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1093,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209189699-market-item",
+    "electorate": "Hotham (VIC)",
+    "candidate": "Coalition",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1093,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189699-market-item",
+    "electorate": "Hotham (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1093,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209189865-market-item",
+    "electorate": "Indi (VIC)",
+    "candidate": "Independent",
+    "price": 1.15,
+    "podds": 0.8696,
+    "electorate_podds": 1.1593,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "209189865-market-item",
+    "electorate": "Indi (VIC)",
+    "candidate": "Coalition",
+    "price": 4.7,
+    "podds": 0.2128,
+    "electorate_podds": 1.1593,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189865-market-item",
+    "electorate": "Indi (VIC)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1593,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209189865-market-item",
+    "electorate": "Indi (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1593,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209189949-market-item",
+    "electorate": "Isaacs (VIC)",
+    "candidate": "Labor",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209189949-market-item",
+    "electorate": "Isaacs (VIC)",
+    "candidate": "Coalition",
+    "price": 8,
+    "podds": 0.125,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189949-market-item",
+    "electorate": "Isaacs (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1343,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209189994-market-item",
+    "electorate": "Jagajaga (VIC)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.124,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209189994-market-item",
+    "electorate": "Jagajaga (VIC)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.124,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209189994-market-item",
+    "electorate": "Jagajaga (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.124,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209190071-market-item",
+    "electorate": "La Trobe (VIC)",
+    "candidate": "Coalition",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1211,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209190071-market-item",
+    "electorate": "La Trobe (VIC)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1211,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209190071-market-item",
+    "electorate": "La Trobe (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1211,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209190156-market-item",
+    "electorate": "Lalor (VIC)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209190156-market-item",
+    "electorate": "Lalor (VIC)",
+    "candidate": "Coalition",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209190156-market-item",
+    "electorate": "Lalor (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860549-market-item",
+    "electorate": "Macnamara (VIC)",
+    "candidate": "Labor",
+    "price": 2,
+    "podds": 0.5,
+    "electorate_podds": 1.1604,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860549-market-item",
+    "electorate": "Macnamara (VIC)",
+    "candidate": "Greens",
+    "price": 2.37,
+    "podds": 0.4219,
+    "electorate_podds": 1.1604,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "205860549-market-item",
+    "electorate": "Macnamara (VIC)",
+    "candidate": "Coalition",
+    "price": 5,
+    "podds": 0.2,
+    "electorate_podds": 1.1604,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860549-market-item",
+    "electorate": "Macnamara (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1604,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209190265-market-item",
+    "electorate": "Mallee (VIC)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.0953,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209190265-market-item",
+    "electorate": "Mallee (VIC)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.0953,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209190265-market-item",
+    "electorate": "Mallee (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.0953,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209190313-market-item",
+    "electorate": "Maribyrnong (VIC)",
+    "candidate": "Labor",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.1262,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209190313-market-item",
+    "electorate": "Maribyrnong (VIC)",
+    "candidate": "Coalition",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1262,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209190313-market-item",
+    "electorate": "Maribyrnong (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1262,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207107272-market-item",
+    "electorate": "McEwen (VIC)",
+    "candidate": "Coalition",
+    "price": 1.57,
+    "podds": 0.6369,
+    "electorate_podds": 1.1198,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207107272-market-item",
+    "electorate": "McEwen (VIC)",
+    "candidate": "Labor",
+    "price": 2.25,
+    "podds": 0.4444,
+    "electorate_podds": 1.1198,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207107272-market-item",
+    "electorate": "McEwen (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1198,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860552-market-item",
+    "electorate": "Melbourne (VIC)",
+    "candidate": "Greens",
+    "price": 1.05,
+    "podds": 0.9524,
+    "electorate_podds": 1.1673,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "205860552-market-item",
+    "electorate": "Melbourne (VIC)",
+    "candidate": "Labor",
+    "price": 8.5,
+    "podds": 0.1176,
+    "electorate_podds": 1.1673,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860552-market-item",
+    "electorate": "Melbourne (VIC)",
+    "candidate": "Coalition",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1673,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860552-market-item",
+    "electorate": "Melbourne (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 17,
+    "podds": 0.0588,
+    "electorate_podds": 1.1673,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207107305-market-item",
+    "electorate": "Menzies (VIC)",
+    "candidate": "Coalition",
+    "price": 1.08,
+    "podds": 0.9259,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207107305-market-item",
+    "electorate": "Menzies (VIC)",
+    "candidate": "Labor",
+    "price": 6,
+    "podds": 0.1667,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207107305-market-item",
+    "electorate": "Menzies (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208717618-market-item",
+    "electorate": "Monash (VIC)",
+    "candidate": "Coalition",
+    "price": 1.38,
+    "podds": 0.7246,
+    "electorate_podds": 1.1573,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208717618-market-item",
+    "electorate": "Monash (VIC)",
+    "candidate": "Independent",
+    "price": 4.25,
+    "podds": 0.2353,
+    "electorate_podds": 1.1573,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "208717618-market-item",
+    "electorate": "Monash (VIC)",
+    "candidate": "Labor",
+    "price": 23,
+    "podds": 0.0435,
+    "electorate_podds": 1.1573,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208717618-market-item",
+    "electorate": "Monash (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 6.5,
+    "podds": 0.1538,
+    "electorate_podds": 1.1573,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209190378-market-item",
+    "electorate": "Nicholls (VIC)",
+    "candidate": "Coalition",
+    "price": 1.05,
+    "podds": 0.9524,
+    "electorate_podds": 1.1337,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209190378-market-item",
+    "electorate": "Nicholls (VIC)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1337,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209190378-market-item",
+    "electorate": "Nicholls (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 7,
+    "podds": 0.1429,
+    "electorate_podds": 1.1337,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209190417-market-item",
+    "electorate": "Scullin (VIC)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209190417-market-item",
+    "electorate": "Scullin (VIC)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209190417-market-item",
+    "electorate": "Scullin (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207107535-market-item",
+    "electorate": "Wannon (VIC)",
+    "candidate": "Coalition",
+    "price": 1.5,
+    "podds": 0.6667,
+    "electorate_podds": 1.1638,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207107535-market-item",
+    "electorate": "Wannon (VIC)",
+    "candidate": "Independent",
+    "price": 2.38,
+    "podds": 0.4202,
+    "electorate_podds": 1.1638,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "207107535-market-item",
+    "electorate": "Wannon (VIC)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1638,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207107535-market-item",
+    "electorate": "Wannon (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1638,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207107548-market-item",
+    "electorate": "Wills (VIC)",
+    "candidate": "Labor",
+    "price": 1.57,
+    "podds": 0.6369,
+    "electorate_podds": 1.1684,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207107548-market-item",
+    "electorate": "Wills (VIC)",
+    "candidate": "Greens",
+    "price": 2.2,
+    "podds": 0.4545,
+    "electorate_podds": 1.1684,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "207107548-market-item",
+    "electorate": "Wills (VIC)",
+    "candidate": "Coalition",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1684,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207107548-market-item",
+    "electorate": "Wills (VIC)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1684,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860608-market-item",
+    "electorate": "Dickson (QLD)",
+    "candidate": "Coalition",
+    "price": 1.21,
+    "podds": 0.8264,
+    "electorate_podds": 1.1419,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860608-market-item",
+    "electorate": "Dickson (QLD)",
+    "candidate": "Labor",
+    "price": 5.25,
+    "podds": 0.1905,
+    "electorate_podds": 1.1419,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860608-market-item",
+    "electorate": "Dickson (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 8,
+    "podds": 0.125,
+    "electorate_podds": 1.1419,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860610-market-item",
+    "electorate": "Griffith (QLD)",
+    "candidate": "Greens",
+    "price": 1.66,
+    "podds": 0.6024,
+    "electorate_podds": 1.1583,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "205860610-market-item",
+    "electorate": "Griffith (QLD)",
+    "candidate": "Labor",
+    "price": 2.27,
+    "podds": 0.4405,
+    "electorate_podds": 1.1583,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860610-market-item",
+    "electorate": "Griffith (QLD)",
+    "candidate": "Coalition",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1583,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860610-market-item",
+    "electorate": "Griffith (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1583,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207107457-market-item",
+    "electorate": "Ryan (QLD)",
+    "candidate": "Coalition",
+    "price": 1.83,
+    "podds": 0.5464,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207107457-market-item",
+    "electorate": "Ryan (QLD)",
+    "candidate": "Greens",
+    "price": 2.55,
+    "podds": 0.3922,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "207107457-market-item",
+    "electorate": "Ryan (QLD)",
+    "candidate": "Labor",
+    "price": 5.5,
+    "podds": 0.1818,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207107457-market-item",
+    "electorate": "Ryan (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208708145-market-item",
+    "electorate": "Brisbane (QLD)",
+    "candidate": "Labor",
+    "price": 2.6,
+    "podds": 0.3846,
+    "electorate_podds": 1.1315,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208708145-market-item",
+    "electorate": "Brisbane (QLD)",
+    "candidate": "Coalition",
+    "price": 2.75,
+    "podds": 0.3636,
+    "electorate_podds": 1.1315,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208708145-market-item",
+    "electorate": "Brisbane (QLD)",
+    "candidate": "Greens",
+    "price": 2.9,
+    "podds": 0.3448,
+    "electorate_podds": 1.1315,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "208708145-market-item",
+    "electorate": "Brisbane (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1315,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209196769-market-item",
+    "electorate": "Blair (QLD)",
+    "candidate": "Labor",
+    "price": 1.27,
+    "podds": 0.7874,
+    "electorate_podds": 1.141,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209196769-market-item",
+    "electorate": "Blair (QLD)",
+    "candidate": "Coalition",
+    "price": 3.7,
+    "podds": 0.2703,
+    "electorate_podds": 1.141,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209196769-market-item",
+    "electorate": "Blair (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.141,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209196789-market-item",
+    "electorate": "Bonner (QLD)",
+    "candidate": "Coalition",
+    "price": 1.08,
+    "podds": 0.9259,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209196789-market-item",
+    "electorate": "Bonner (QLD)",
+    "candidate": "Labor",
+    "price": 6,
+    "podds": 0.1667,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209196789-market-item",
+    "electorate": "Bonner (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1311,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209196845-market-item",
+    "electorate": "Bowman (QLD)",
+    "candidate": "Coalition",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1211,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209196845-market-item",
+    "electorate": "Bowman (QLD)",
+    "candidate": "Labor",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1211,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209196845-market-item",
+    "electorate": "Bowman (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1211,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205866682-market-item",
+    "electorate": "Capricornia (QLD)",
+    "candidate": "Coalition",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1451,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205866682-market-item",
+    "electorate": "Capricornia (QLD)",
+    "candidate": "Labor",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.1451,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205866682-market-item",
+    "electorate": "Capricornia (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1451,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197238-market-item",
+    "electorate": "Dawson (QLD)",
+    "candidate": "Coalition",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.128,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197238-market-item",
+    "electorate": "Dawson (QLD)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.128,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197238-market-item",
+    "electorate": "Dawson (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.128,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197245-market-item",
+    "electorate": "Fadden (QLD)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1143,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197245-market-item",
+    "electorate": "Fadden (QLD)",
+    "candidate": "Labor",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1143,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197245-market-item",
+    "electorate": "Fadden (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1143,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197290-market-item",
+    "electorate": "Fairfax (QLD)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1191,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197290-market-item",
+    "electorate": "Fairfax (QLD)",
+    "candidate": "Labor",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1191,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197290-market-item",
+    "electorate": "Fairfax (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1191,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197295-market-item",
+    "electorate": "Fisher (QLD)",
+    "candidate": "Coalition",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1336,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197295-market-item",
+    "electorate": "Fisher (QLD)",
+    "candidate": "Labor",
+    "price": 23,
+    "podds": 0.0435,
+    "electorate_podds": 1.1336,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197295-market-item",
+    "electorate": "Fisher (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1336,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197326-market-item",
+    "electorate": "Flynn (QLD)",
+    "candidate": "Coalition",
+    "price": 1.06,
+    "podds": 0.9434,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197326-market-item",
+    "electorate": "Flynn (QLD)",
+    "candidate": "Labor",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197326-market-item",
+    "electorate": "Flynn (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 7.5,
+    "podds": 0.1333,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197368-market-item",
+    "electorate": "Forde (QLD)",
+    "candidate": "Coalition",
+    "price": 1.05,
+    "podds": 0.9524,
+    "electorate_podds": 1.1383,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197368-market-item",
+    "electorate": "Forde (QLD)",
+    "candidate": "Labor",
+    "price": 7.5,
+    "podds": 0.1333,
+    "electorate_podds": 1.1383,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197368-market-item",
+    "electorate": "Forde (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1383,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197412-market-item",
+    "electorate": "Groom (QLD)",
+    "candidate": "Coalition",
+    "price": 1.09,
+    "podds": 0.9174,
+    "electorate_podds": 1.1532,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197412-market-item",
+    "electorate": "Groom (QLD)",
+    "candidate": "Independent",
+    "price": 6.5,
+    "podds": 0.1538,
+    "electorate_podds": 1.1532,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "209197412-market-item",
+    "electorate": "Groom (QLD)",
+    "candidate": "Labor",
+    "price": 23,
+    "podds": 0.0435,
+    "electorate_podds": 1.1532,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197412-market-item",
+    "electorate": "Groom (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1532,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197534-market-item",
+    "electorate": "Herbert (QLD)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1051,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197534-market-item",
+    "electorate": "Herbert (QLD)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1051,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197534-market-item",
+    "electorate": "Herbert (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1051,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197557-market-item",
+    "electorate": "Hinkler (QLD)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1336,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197557-market-item",
+    "electorate": "Hinkler (QLD)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1336,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197557-market-item",
+    "electorate": "Hinkler (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 11,
+    "podds": 0.0909,
+    "electorate_podds": 1.1336,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860611-market-item",
+    "electorate": "Kennedy (QLD)",
+    "candidate": "Katter's Australian Party",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Katter's Australian Party"
+  },
+  {
+    "id": "205860611-market-item",
+    "electorate": "Kennedy (QLD)",
+    "candidate": "Coalition",
+    "price": 9,
+    "podds": 0.1111,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860611-market-item",
+    "electorate": "Kennedy (QLD)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860611-market-item",
+    "electorate": "Kennedy (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1589,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208717292-market-item",
+    "electorate": "Leichhardt (QLD)",
+    "candidate": "Coalition",
+    "price": 1.34,
+    "podds": 0.7463,
+    "electorate_podds": 1.1322,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208717292-market-item",
+    "electorate": "Leichhardt (QLD)",
+    "candidate": "Labor",
+    "price": 3,
+    "podds": 0.3333,
+    "electorate_podds": 1.1322,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208717292-market-item",
+    "electorate": "Leichhardt (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1322,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197561-market-item",
+    "electorate": "Lilley (QLD)",
+    "candidate": "Labor",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.1304,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197561-market-item",
+    "electorate": "Lilley (QLD)",
+    "candidate": "Coalition",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1304,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197561-market-item",
+    "electorate": "Lilley (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1304,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197571-market-item",
+    "electorate": "Longman (QLD)",
+    "candidate": "Coalition",
+    "price": 1.09,
+    "podds": 0.9174,
+    "electorate_podds": 1.1436,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197571-market-item",
+    "electorate": "Longman (QLD)",
+    "candidate": "Labor",
+    "price": 7,
+    "podds": 0.1429,
+    "electorate_podds": 1.1436,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197571-market-item",
+    "electorate": "Longman (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1436,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860612-market-item",
+    "electorate": "Maranoa (QLD)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1344,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860612-market-item",
+    "electorate": "Maranoa (QLD)",
+    "candidate": "One Nation",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1344,
+    "candidate_adj": "One Nation"
+  },
+  {
+    "id": "205860612-market-item",
+    "electorate": "Maranoa (QLD)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1344,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860612-market-item",
+    "electorate": "Maranoa (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1344,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207107166-market-item",
+    "electorate": "McPherson (QLD)",
+    "candidate": "Coalition",
+    "price": 1.37,
+    "podds": 0.7299,
+    "electorate_podds": 1.164,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207107166-market-item",
+    "electorate": "McPherson (QLD)",
+    "candidate": "Independent",
+    "price": 2.8,
+    "podds": 0.3571,
+    "electorate_podds": 1.164,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "207107166-market-item",
+    "electorate": "McPherson (QLD)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.164,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207107166-market-item",
+    "electorate": "McPherson (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.164,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197597-market-item",
+    "electorate": "Moncrieff (QLD)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197597-market-item",
+    "electorate": "Moncrieff (QLD)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197597-market-item",
+    "electorate": "Moncrieff (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208718760-market-item",
+    "electorate": "Moreton (QLD)",
+    "candidate": "Labor",
+    "price": 1.14,
+    "podds": 0.8772,
+    "electorate_podds": 1.1748,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208718760-market-item",
+    "electorate": "Moreton (QLD)",
+    "candidate": "Coalition",
+    "price": 6.5,
+    "podds": 0.1538,
+    "electorate_podds": 1.1748,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208718760-market-item",
+    "electorate": "Moreton (QLD)",
+    "candidate": "Greens",
+    "price": 9.5,
+    "podds": 0.1053,
+    "electorate_podds": 1.1748,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "208718760-market-item",
+    "electorate": "Moreton (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1748,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197601-market-item",
+    "electorate": "Oxley (QLD)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1168,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197601-market-item",
+    "electorate": "Oxley (QLD)",
+    "candidate": "Coalition",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1168,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197601-market-item",
+    "electorate": "Oxley (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1168,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197608-market-item",
+    "electorate": "Petrie (QLD)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1168,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197608-market-item",
+    "electorate": "Petrie (QLD)",
+    "candidate": "Labor",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1168,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197608-market-item",
+    "electorate": "Petrie (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1168,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205860613-market-item",
+    "electorate": "Rankin (QLD)",
+    "candidate": "Labor",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.1262,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205860613-market-item",
+    "electorate": "Rankin (QLD)",
+    "candidate": "Coalition",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1262,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205860613-market-item",
+    "electorate": "Rankin (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 16,
+    "podds": 0.0625,
+    "electorate_podds": 1.1262,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209246608-market-item",
+    "electorate": "Wide Bay (QLD)",
+    "candidate": "Coalition",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1238,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209246608-market-item",
+    "electorate": "Wide Bay (QLD)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1238,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209246608-market-item",
+    "electorate": "Wide Bay (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 9.5,
+    "podds": 0.1053,
+    "electorate_podds": 1.1238,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209197781-market-item",
+    "electorate": "Wright (QLD)",
+    "candidate": "Coalition",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.1189,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209197781-market-item",
+    "electorate": "Wright (QLD)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1189,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209197781-market-item",
+    "electorate": "Wright (QLD)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1189,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128067-market-item",
+    "electorate": "Brand (WA)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128067-market-item",
+    "electorate": "Brand (WA)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128067-market-item",
+    "electorate": "Brand (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206871481-market-item",
+    "electorate": "Bullwinkel (WA)",
+    "candidate": "Coalition",
+    "price": 1.26,
+    "podds": 0.7937,
+    "electorate_podds": 1.1351,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206871481-market-item",
+    "electorate": "Bullwinkel (WA)",
+    "candidate": "Labor",
+    "price": 3.3,
+    "podds": 0.303,
+    "electorate_podds": 1.1351,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206871481-market-item",
+    "electorate": "Bullwinkel (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1351,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128095-market-item",
+    "electorate": "Burt (WA)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128095-market-item",
+    "electorate": "Burt (WA)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128095-market-item",
+    "electorate": "Burt (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128256-market-item",
+    "electorate": "Canning (WA)",
+    "candidate": "Coalition",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1204,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128256-market-item",
+    "electorate": "Canning (WA)",
+    "candidate": "Labor",
+    "price": 9,
+    "podds": 0.1111,
+    "electorate_podds": 1.1204,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128256-market-item",
+    "electorate": "Canning (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1204,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128314-market-item",
+    "electorate": "Cowan (WA)",
+    "candidate": "Labor",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.127,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128314-market-item",
+    "electorate": "Cowan (WA)",
+    "candidate": "Coalition",
+    "price": 8.5,
+    "podds": 0.1176,
+    "electorate_podds": 1.127,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128314-market-item",
+    "electorate": "Cowan (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.127,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "206867407-market-item",
+    "electorate": "Curtin (WA)",
+    "candidate": "Coalition",
+    "price": 1.48,
+    "podds": 0.6757,
+    "electorate_podds": 1.1693,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "206867407-market-item",
+    "electorate": "Curtin (WA)",
+    "candidate": "Independent",
+    "price": 2.4,
+    "podds": 0.4167,
+    "electorate_podds": 1.1693,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "206867407-market-item",
+    "electorate": "Curtin (WA)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1693,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "206867407-market-item",
+    "electorate": "Curtin (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1693,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128351-market-item",
+    "electorate": "Durack (WA)",
+    "candidate": "Coalition",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1296,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128351-market-item",
+    "electorate": "Durack (WA)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1296,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128351-market-item",
+    "electorate": "Durack (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 9,
+    "podds": 0.1111,
+    "electorate_podds": 1.1296,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208715999-market-item",
+    "electorate": "Forrest (WA)",
+    "candidate": "Coalition",
+    "price": 1.14,
+    "podds": 0.8772,
+    "electorate_podds": 1.1582,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208715999-market-item",
+    "electorate": "Forrest (WA)",
+    "candidate": "Independent",
+    "price": 4.9,
+    "podds": 0.2041,
+    "electorate_podds": 1.1582,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "208715999-market-item",
+    "electorate": "Forrest (WA)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1582,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208715999-market-item",
+    "electorate": "Forrest (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1582,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128430-market-item",
+    "electorate": "Fremantle (WA)",
+    "candidate": "Labor",
+    "price": 1.21,
+    "podds": 0.8264,
+    "electorate_podds": 1.1305,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128430-market-item",
+    "electorate": "Fremantle (WA)",
+    "candidate": "Coalition",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1305,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128430-market-item",
+    "electorate": "Fremantle (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 3.9,
+    "podds": 0.2564,
+    "electorate_podds": 1.1305,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208716580-market-item",
+    "electorate": "Hasluck (WA)",
+    "candidate": "Labor",
+    "price": 1.22,
+    "podds": 0.8197,
+    "electorate_podds": 1.1213,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208716580-market-item",
+    "electorate": "Hasluck (WA)",
+    "candidate": "Coalition",
+    "price": 3.8,
+    "podds": 0.2632,
+    "electorate_podds": 1.1213,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208716580-market-item",
+    "electorate": "Hasluck (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1213,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207104096-market-item",
+    "electorate": "Moore (WA)",
+    "candidate": "Coalition",
+    "price": 1.19,
+    "podds": 0.8403,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207104096-market-item",
+    "electorate": "Moore (WA)",
+    "candidate": "Labor",
+    "price": 6.5,
+    "podds": 0.1538,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207104096-market-item",
+    "electorate": "Moore (WA)",
+    "candidate": "Independent",
+    "price": 8.5,
+    "podds": 0.1176,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "207104096-market-item",
+    "electorate": "Moore (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128486-market-item",
+    "electorate": "O'Connor (WA)",
+    "candidate": "Coalition",
+    "price": 1.05,
+    "podds": 0.9524,
+    "electorate_podds": 1.1524,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128486-market-item",
+    "electorate": "O'Connor (WA)",
+    "candidate": "Labor",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1524,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128486-market-item",
+    "electorate": "O'Connor (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1524,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207104141-market-item",
+    "electorate": "Pearce (WA)",
+    "candidate": "Labor",
+    "price": 1.41,
+    "podds": 0.7092,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207104141-market-item",
+    "electorate": "Pearce (WA)",
+    "candidate": "Coalition",
+    "price": 2.62,
+    "podds": 0.3817,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207104141-market-item",
+    "electorate": "Pearce (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1294,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "209128558-market-item",
+    "electorate": "Perth (WA)",
+    "candidate": "Labor",
+    "price": 1.08,
+    "podds": 0.9259,
+    "electorate_podds": 1.1691,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "209128558-market-item",
+    "electorate": "Perth (WA)",
+    "candidate": "Greens",
+    "price": 7.5,
+    "podds": 0.1333,
+    "electorate_podds": 1.1691,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "209128558-market-item",
+    "electorate": "Perth (WA)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1691,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "209128558-market-item",
+    "electorate": "Perth (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1691,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208722997-market-item",
+    "electorate": "Swan (WA)",
+    "candidate": "Labor",
+    "price": 1.18,
+    "podds": 0.8475,
+    "electorate_podds": 1.1298,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208722997-market-item",
+    "electorate": "Swan (WA)",
+    "candidate": "Coalition",
+    "price": 4.1,
+    "podds": 0.2439,
+    "electorate_podds": 1.1298,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208722997-market-item",
+    "electorate": "Swan (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1298,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207104819-market-item",
+    "electorate": "Tangney (WA)",
+    "candidate": "Coalition",
+    "price": 1.7,
+    "podds": 0.5882,
+    "electorate_podds": 1.1267,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207104819-market-item",
+    "electorate": "Tangney (WA)",
+    "candidate": "Labor",
+    "price": 2,
+    "podds": 0.5,
+    "electorate_podds": 1.1267,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207104819-market-item",
+    "electorate": "Tangney (WA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1267,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207103767-market-item",
+    "electorate": "Boothby (SA)",
+    "candidate": "Labor",
+    "price": 1.8,
+    "podds": 0.5556,
+    "electorate_podds": 1.1203,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207103767-market-item",
+    "electorate": "Boothby (SA)",
+    "candidate": "Coalition",
+    "price": 1.9,
+    "podds": 0.5263,
+    "electorate_podds": 1.1203,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207103767-market-item",
+    "electorate": "Boothby (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1203,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207104422-market-item",
+    "electorate": "Sturt (SA)",
+    "candidate": "Coalition",
+    "price": 1.32,
+    "podds": 0.7576,
+    "electorate_podds": 1.139,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207104422-market-item",
+    "electorate": "Sturt (SA)",
+    "candidate": "Labor",
+    "price": 3.9,
+    "podds": 0.2564,
+    "electorate_podds": 1.139,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207104422-market-item",
+    "electorate": "Sturt (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 8,
+    "podds": 0.125,
+    "electorate_podds": 1.139,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208818267-market-item",
+    "electorate": "Adelaide (SA)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208818267-market-item",
+    "electorate": "Adelaide (SA)",
+    "candidate": "Coalition",
+    "price": 12,
+    "podds": 0.0833,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208818267-market-item",
+    "electorate": "Adelaide (SA)",
+    "candidate": "Greens",
+    "price": 19,
+    "podds": 0.0526,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "208818267-market-item",
+    "electorate": "Adelaide (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1645,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208818366-market-item",
+    "electorate": "Barker (SA)",
+    "candidate": "Coalition",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1141,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208818366-market-item",
+    "electorate": "Barker (SA)",
+    "candidate": "Labor",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1141,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208818366-market-item",
+    "electorate": "Barker (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1141,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208819319-market-item",
+    "electorate": "Grey (SA)",
+    "candidate": "Coalition",
+    "price": 1.1,
+    "podds": 0.9091,
+    "electorate_podds": 1.1399,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208819319-market-item",
+    "electorate": "Grey (SA)",
+    "candidate": "Labor",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1399,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208819319-market-item",
+    "electorate": "Grey (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 6.5,
+    "podds": 0.1538,
+    "electorate_podds": 1.1399,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208821073-market-item",
+    "electorate": "Hindmarsh (SA)",
+    "candidate": "Labor",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1361,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208821073-market-item",
+    "electorate": "Hindmarsh (SA)",
+    "candidate": "Coalition",
+    "price": 8.5,
+    "podds": 0.1176,
+    "electorate_podds": 1.1361,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208821073-market-item",
+    "electorate": "Hindmarsh (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1361,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208905742-market-item",
+    "electorate": "Kingston (SA)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208905742-market-item",
+    "electorate": "Kingston (SA)",
+    "candidate": "Coalition",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208905742-market-item",
+    "electorate": "Kingston (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1049,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208905832-market-item",
+    "electorate": "Makin (SA)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208905832-market-item",
+    "electorate": "Makin (SA)",
+    "candidate": "Coalition",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208905832-market-item",
+    "electorate": "Makin (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208905904-market-item",
+    "electorate": "Mayo (SA)",
+    "candidate": "Centre Alliance",
+    "price": 1.18,
+    "podds": 0.8475,
+    "electorate_podds": 1.1654,
+    "candidate_adj": "Centre Alliance"
+  },
+  {
+    "id": "208905904-market-item",
+    "electorate": "Mayo (SA)",
+    "candidate": "Coalition",
+    "price": 4.7,
+    "podds": 0.2128,
+    "electorate_podds": 1.1654,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208905904-market-item",
+    "electorate": "Mayo (SA)",
+    "candidate": "Labor",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1654,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208905904-market-item",
+    "electorate": "Mayo (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1654,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208906030-market-item",
+    "electorate": "Spence (SA)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1093,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208906030-market-item",
+    "electorate": "Spence (SA)",
+    "candidate": "Coalition",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1093,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208906030-market-item",
+    "electorate": "Spence (SA)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1093,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "205857746-market-item",
+    "electorate": "Lyons (TAS)",
+    "candidate": "Coalition",
+    "price": 1.63,
+    "podds": 0.6135,
+    "electorate_podds": 1.1373,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "205857746-market-item",
+    "electorate": "Lyons (TAS)",
+    "candidate": "Labor",
+    "price": 2.1,
+    "podds": 0.4762,
+    "electorate_podds": 1.1373,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "205857746-market-item",
+    "electorate": "Lyons (TAS)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1373,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208707742-market-item",
+    "electorate": "Bass (TAS)",
+    "candidate": "Coalition",
+    "price": 1.2,
+    "podds": 0.8333,
+    "electorate_podds": 1.1487,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208707742-market-item",
+    "electorate": "Bass (TAS)",
+    "candidate": "Labor",
+    "price": 4.1,
+    "podds": 0.2439,
+    "electorate_podds": 1.1487,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208707742-market-item",
+    "electorate": "Bass (TAS)",
+    "candidate": "Any Other Candidate",
+    "price": 14,
+    "podds": 0.0714,
+    "electorate_podds": 1.1487,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208814508-market-item",
+    "electorate": "Braddon (TAS)",
+    "candidate": "Coalition",
+    "price": 1.07,
+    "podds": 0.9346,
+    "electorate_podds": 1.1441,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208814508-market-item",
+    "electorate": "Braddon (TAS)",
+    "candidate": "Labor",
+    "price": 7,
+    "podds": 0.1429,
+    "electorate_podds": 1.1441,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208814508-market-item",
+    "electorate": "Braddon (TAS)",
+    "candidate": "Any Other Candidate",
+    "price": 15,
+    "podds": 0.0667,
+    "electorate_podds": 1.1441,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208814544-market-item",
+    "electorate": "Clark (TAS)",
+    "candidate": "Independent",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Independent"
+  },
+  {
+    "id": "208814544-market-item",
+    "electorate": "Clark (TAS)",
+    "candidate": "Coalition",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208814544-market-item",
+    "electorate": "Clark (TAS)",
+    "candidate": "Labor",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208814544-market-item",
+    "electorate": "Clark (TAS)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1104,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208814615-market-item",
+    "electorate": "Franklin (TAS)",
+    "candidate": "Labor",
+    "price": 1.03,
+    "podds": 0.9709,
+    "electorate_podds": 1.1622,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208814615-market-item",
+    "electorate": "Franklin (TAS)",
+    "candidate": "Coalition",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1622,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208814615-market-item",
+    "electorate": "Franklin (TAS)",
+    "candidate": "Greens",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1622,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "208814615-market-item",
+    "electorate": "Franklin (TAS)",
+    "candidate": "Any Other Candidate",
+    "price": 9.5,
+    "podds": 0.1053,
+    "electorate_podds": 1.1622,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "207101968-market-item",
+    "electorate": "Lingiari (NT)",
+    "candidate": "Coalition",
+    "price": 1.45,
+    "podds": 0.6897,
+    "electorate_podds": 1.1281,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "207101968-market-item",
+    "electorate": "Lingiari (NT)",
+    "candidate": "Labor",
+    "price": 2.5,
+    "podds": 0.4,
+    "electorate_podds": 1.1281,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "207101968-market-item",
+    "electorate": "Lingiari (NT)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1281,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208722819-market-item",
+    "electorate": "Solomon (NT)",
+    "candidate": "Labor",
+    "price": 1.57,
+    "podds": 0.6369,
+    "electorate_podds": 1.1251,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208722819-market-item",
+    "electorate": "Solomon (NT)",
+    "candidate": "Coalition",
+    "price": 2.27,
+    "podds": 0.4405,
+    "electorate_podds": 1.1251,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208722819-market-item",
+    "electorate": "Solomon (NT)",
+    "candidate": "Any Other Candidate",
+    "price": 21,
+    "podds": 0.0476,
+    "electorate_podds": 1.1251,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208800457-market-item",
+    "electorate": "Bean (ACT)",
+    "candidate": "Labor",
+    "price": 1.02,
+    "podds": 0.9804,
+    "electorate_podds": 1.1392,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208800457-market-item",
+    "electorate": "Bean (ACT)",
+    "candidate": "Coalition",
+    "price": 17,
+    "podds": 0.0588,
+    "electorate_podds": 1.1392,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208800457-market-item",
+    "electorate": "Bean (ACT)",
+    "candidate": "Any Other Candidate",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1392,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208809127-market-item",
+    "electorate": "Canberra (ACT)",
+    "candidate": "Labor",
+    "price": 1.005,
+    "podds": 0.995,
+    "electorate_podds": 1.1489,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208809127-market-item",
+    "electorate": "Canberra (ACT)",
+    "candidate": "Greens",
+    "price": 13,
+    "podds": 0.0769,
+    "electorate_podds": 1.1489,
+    "candidate_adj": "Greens"
+  },
+  {
+    "id": "208809127-market-item",
+    "electorate": "Canberra (ACT)",
+    "candidate": "Coalition",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1489,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208809127-market-item",
+    "electorate": "Canberra (ACT)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1489,
+    "candidate_adj": "Any Other Candidate"
+  },
+  {
+    "id": "208809277-market-item",
+    "electorate": "Fenner (ACT)",
+    "candidate": "Labor",
+    "price": 1.01,
+    "podds": 0.9901,
+    "electorate_podds": 1.1286,
+    "candidate_adj": "Labor"
+  },
+  {
+    "id": "208809277-market-item",
+    "electorate": "Fenner (ACT)",
+    "candidate": "Coalition",
+    "price": 10,
+    "podds": 0.1,
+    "electorate_podds": 1.1286,
+    "candidate_adj": "Coalition"
+  },
+  {
+    "id": "208809277-market-item",
+    "electorate": "Fenner (ACT)",
+    "candidate": "Any Other Candidate",
+    "price": 26,
+    "podds": 0.0385,
+    "electorate_podds": 1.1286,
+    "candidate_adj": "Any Other Candidate"
+  }
+]

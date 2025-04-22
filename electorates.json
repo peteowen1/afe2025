@@ -1,0 +1,602 @@
+[
+  {
+    "dataAutomationId": "209192701-market-item",
+    "electorate": "Banks (NSW)"
+  },
+  {
+    "dataAutomationId": "209192784-market-item",
+    "electorate": "Barton (NSW)"
+  },
+  {
+    "dataAutomationId": "206871293-market-item",
+    "electorate": "Bennelong (NSW)"
+  },
+  {
+    "dataAutomationId": "209192882-market-item",
+    "electorate": "Berowra (NSW)"
+  },
+  {
+    "dataAutomationId": "205854486-market-item",
+    "electorate": "Blaxland (NSW)"
+  },
+  {
+    "dataAutomationId": "206871472-market-item",
+    "electorate": "Bradfield (NSW)"
+  },
+  {
+    "dataAutomationId": "206871779-market-item",
+    "electorate": "Calare (NSW)"
+  },
+  {
+    "dataAutomationId": "209192944-market-item",
+    "electorate": "Chifley (NSW)"
+  },
+  {
+    "dataAutomationId": "209193029-market-item",
+    "electorate": "Cook (NSW)"
+  },
+  {
+    "dataAutomationId": "207101308-market-item",
+    "electorate": "Cowper (NSW)"
+  },
+  {
+    "dataAutomationId": "209193132-market-item",
+    "electorate": "Cunningham (NSW)"
+  },
+  {
+    "dataAutomationId": "209193172-market-item",
+    "electorate": "Dobell (NSW)"
+  },
+  {
+    "dataAutomationId": "208715704-market-item",
+    "electorate": "Eden-Monaro (NSW)"
+  },
+  {
+    "dataAutomationId": "209193218-market-item",
+    "electorate": "Farrer (NSW)"
+  },
+  {
+    "dataAutomationId": "206867665-market-item",
+    "electorate": "Fowler (NSW)"
+  },
+  {
+    "dataAutomationId": "207101593-market-item",
+    "electorate": "Gilmore (NSW)"
+  },
+  {
+    "dataAutomationId": "205854917-market-item",
+    "electorate": "Grayndler (NSW)"
+  },
+  {
+    "dataAutomationId": "209193233-market-item",
+    "electorate": "Greenway (NSW)"
+  },
+  {
+    "dataAutomationId": "209193284-market-item",
+    "electorate": "Hughes (NSW)"
+  },
+  {
+    "dataAutomationId": "209193428-market-item",
+    "electorate": "Hume (NSW)"
+  },
+  {
+    "dataAutomationId": "207101862-market-item",
+    "electorate": "Hunter (NSW)"
+  },
+  {
+    "dataAutomationId": "209193440-market-item",
+    "electorate": "Kingsford Smith (NSW)"
+  },
+  {
+    "dataAutomationId": "209193448-market-item",
+    "electorate": "Lindsay (NSW)"
+  },
+  {
+    "dataAutomationId": "209193459-market-item",
+    "electorate": "Lyne (NSW)"
+  },
+  {
+    "dataAutomationId": "209193486-market-item",
+    "electorate": "Macarthur (NSW)"
+  },
+  {
+    "dataAutomationId": "207103400-market-item",
+    "electorate": "Mackellar (NSW)"
+  },
+  {
+    "dataAutomationId": "209193519-market-item",
+    "electorate": "Macquarie (NSW)"
+  },
+  {
+    "dataAutomationId": "209193533-market-item",
+    "electorate": "McMahon (NSW)"
+  },
+  {
+    "dataAutomationId": "209193821-market-item",
+    "electorate": "Mitchell (NSW)"
+  },
+  {
+    "dataAutomationId": "205860555-market-item",
+    "electorate": "New England (NSW)"
+  },
+  {
+    "dataAutomationId": "209193828-market-item",
+    "electorate": "Newcastle (NSW)"
+  },
+  {
+    "dataAutomationId": "208719418-market-item",
+    "electorate": "Page (NSW)"
+  },
+  {
+    "dataAutomationId": "209193841-market-item",
+    "electorate": "Parkes (NSW)"
+  },
+  {
+    "dataAutomationId": "208719746-market-item",
+    "electorate": "Parramatta (NSW)"
+  },
+  {
+    "dataAutomationId": "208720202-market-item",
+    "electorate": "Paterson (NSW)"
+  },
+  {
+    "dataAutomationId": "208722773-market-item",
+    "electorate": "Reid (NSW)"
+  },
+  {
+    "dataAutomationId": "209193866-market-item",
+    "electorate": "Richmond (NSW)"
+  },
+  {
+    "dataAutomationId": "209193985-market-item",
+    "electorate": "Riverina (NSW)"
+  },
+  {
+    "dataAutomationId": "207106646-market-item",
+    "electorate": "Robertson (NSW)"
+  },
+  {
+    "dataAutomationId": "209194049-market-item",
+    "electorate": "Shortland (NSW)"
+  },
+  {
+    "dataAutomationId": "209194077-market-item",
+    "electorate": "Sydney (NSW)"
+  },
+  {
+    "dataAutomationId": "205856622-market-item",
+    "electorate": "Warringah (NSW)"
+  },
+  {
+    "dataAutomationId": "205860553-market-item",
+    "electorate": "Watson (NSW)"
+  },
+  {
+    "dataAutomationId": "208723580-market-item",
+    "electorate": "Wentworth (NSW)"
+  },
+  {
+    "dataAutomationId": "208723608-market-item",
+    "electorate": "Werriwa (NSW)"
+  },
+  {
+    "dataAutomationId": "209194088-market-item",
+    "electorate": "Whitlam (NSW)"
+  },
+  {
+    "dataAutomationId": "207107000-market-item",
+    "electorate": "Goldstein (VIC)"
+  },
+  {
+    "dataAutomationId": "207147174-market-item",
+    "electorate": "Kooyong (VIC)"
+  },
+  {
+    "dataAutomationId": "206867074-market-item",
+    "electorate": "Aston (VIC)"
+  },
+  {
+    "dataAutomationId": "209187841-market-item",
+    "electorate": "Ballarat (VIC)"
+  },
+  {
+    "dataAutomationId": "208257820-market-item",
+    "electorate": "Bendigo (VIC)"
+  },
+  {
+    "dataAutomationId": "208709220-market-item",
+    "electorate": "Bruce (VIC)"
+  },
+  {
+    "dataAutomationId": "209187923-market-item",
+    "electorate": "Calwell (VIC)"
+  },
+  {
+    "dataAutomationId": "208712760-market-item",
+    "electorate": "Casey (VIC)"
+  },
+  {
+    "dataAutomationId": "206867756-market-item",
+    "electorate": "Chisholm (VIC)"
+  },
+  {
+    "dataAutomationId": "207101307-market-item",
+    "electorate": "Cooper (VIC)"
+  },
+  {
+    "dataAutomationId": "208713660-market-item",
+    "electorate": "Corangamite (VIC)"
+  },
+  {
+    "dataAutomationId": "209188116-market-item",
+    "electorate": "Corio (VIC)"
+  },
+  {
+    "dataAutomationId": "207103555-market-item",
+    "electorate": "Deakin (VIC)"
+  },
+  {
+    "dataAutomationId": "208713724-market-item",
+    "electorate": "Dunkley (VIC)"
+  },
+  {
+    "dataAutomationId": "209188233-market-item",
+    "electorate": "Flinders (VIC)"
+  },
+  {
+    "dataAutomationId": "209188369-market-item",
+    "electorate": "Fraser (VIC)"
+  },
+  {
+    "dataAutomationId": "209188767-market-item",
+    "electorate": "Gellibrand (VIC)"
+  },
+  {
+    "dataAutomationId": "209189192-market-item",
+    "electorate": "Gippsland (VIC)"
+  },
+  {
+    "dataAutomationId": "209189261-market-item",
+    "electorate": "Gorton (VIC)"
+  },
+  {
+    "dataAutomationId": "206871480-market-item",
+    "electorate": "Hawke (VIC)"
+  },
+  {
+    "dataAutomationId": "209189606-market-item",
+    "electorate": "Holt (VIC)"
+  },
+  {
+    "dataAutomationId": "209189699-market-item",
+    "electorate": "Hotham (VIC)"
+  },
+  {
+    "dataAutomationId": "209189865-market-item",
+    "electorate": "Indi (VIC)"
+  },
+  {
+    "dataAutomationId": "209189949-market-item",
+    "electorate": "Isaacs (VIC)"
+  },
+  {
+    "dataAutomationId": "209189994-market-item",
+    "electorate": "Jagajaga (VIC)"
+  },
+  {
+    "dataAutomationId": "209190071-market-item",
+    "electorate": "La Trobe (VIC)"
+  },
+  {
+    "dataAutomationId": "209190156-market-item",
+    "electorate": "Lalor (VIC)"
+  },
+  {
+    "dataAutomationId": "205860549-market-item",
+    "electorate": "Macnamara (VIC)"
+  },
+  {
+    "dataAutomationId": "209190265-market-item",
+    "electorate": "Mallee (VIC)"
+  },
+  {
+    "dataAutomationId": "209190313-market-item",
+    "electorate": "Maribyrnong (VIC)"
+  },
+  {
+    "dataAutomationId": "207107272-market-item",
+    "electorate": "McEwen (VIC)"
+  },
+  {
+    "dataAutomationId": "205860552-market-item",
+    "electorate": "Melbourne (VIC)"
+  },
+  {
+    "dataAutomationId": "207107305-market-item",
+    "electorate": "Menzies (VIC)"
+  },
+  {
+    "dataAutomationId": "208717618-market-item",
+    "electorate": "Monash (VIC)"
+  },
+  {
+    "dataAutomationId": "209190378-market-item",
+    "electorate": "Nicholls (VIC)"
+  },
+  {
+    "dataAutomationId": "209190417-market-item",
+    "electorate": "Scullin (VIC)"
+  },
+  {
+    "dataAutomationId": "207107535-market-item",
+    "electorate": "Wannon (VIC)"
+  },
+  {
+    "dataAutomationId": "207107548-market-item",
+    "electorate": "Wills (VIC)"
+  },
+  {
+    "dataAutomationId": "205860608-market-item",
+    "electorate": "Dickson (QLD)"
+  },
+  {
+    "dataAutomationId": "205860610-market-item",
+    "electorate": "Griffith (QLD)"
+  },
+  {
+    "dataAutomationId": "207107457-market-item",
+    "electorate": "Ryan (QLD)"
+  },
+  {
+    "dataAutomationId": "208708145-market-item",
+    "electorate": "Brisbane (QLD)"
+  },
+  {
+    "dataAutomationId": "209196769-market-item",
+    "electorate": "Blair (QLD)"
+  },
+  {
+    "dataAutomationId": "209196789-market-item",
+    "electorate": "Bonner (QLD)"
+  },
+  {
+    "dataAutomationId": "209196845-market-item",
+    "electorate": "Bowman (QLD)"
+  },
+  {
+    "dataAutomationId": "205866682-market-item",
+    "electorate": "Capricornia (QLD)"
+  },
+  {
+    "dataAutomationId": "209197238-market-item",
+    "electorate": "Dawson (QLD)"
+  },
+  {
+    "dataAutomationId": "209197245-market-item",
+    "electorate": "Fadden (QLD)"
+  },
+  {
+    "dataAutomationId": "209197290-market-item",
+    "electorate": "Fairfax (QLD)"
+  },
+  {
+    "dataAutomationId": "209197295-market-item",
+    "electorate": "Fisher (QLD)"
+  },
+  {
+    "dataAutomationId": "209197326-market-item",
+    "electorate": "Flynn (QLD)"
+  },
+  {
+    "dataAutomationId": "209197368-market-item",
+    "electorate": "Forde (QLD)"
+  },
+  {
+    "dataAutomationId": "209197412-market-item",
+    "electorate": "Groom (QLD)"
+  },
+  {
+    "dataAutomationId": "209197534-market-item",
+    "electorate": "Herbert (QLD)"
+  },
+  {
+    "dataAutomationId": "209197557-market-item",
+    "electorate": "Hinkler (QLD)"
+  },
+  {
+    "dataAutomationId": "205860611-market-item",
+    "electorate": "Kennedy (QLD)"
+  },
+  {
+    "dataAutomationId": "208717292-market-item",
+    "electorate": "Leichhardt (QLD)"
+  },
+  {
+    "dataAutomationId": "209197561-market-item",
+    "electorate": "Lilley (QLD)"
+  },
+  {
+    "dataAutomationId": "209197571-market-item",
+    "electorate": "Longman (QLD)"
+  },
+  {
+    "dataAutomationId": "205860612-market-item",
+    "electorate": "Maranoa (QLD)"
+  },
+  {
+    "dataAutomationId": "207107166-market-item",
+    "electorate": "McPherson (QLD)"
+  },
+  {
+    "dataAutomationId": "209197597-market-item",
+    "electorate": "Moncrieff (QLD)"
+  },
+  {
+    "dataAutomationId": "208718760-market-item",
+    "electorate": "Moreton (QLD)"
+  },
+  {
+    "dataAutomationId": "209197601-market-item",
+    "electorate": "Oxley (QLD)"
+  },
+  {
+    "dataAutomationId": "209197608-market-item",
+    "electorate": "Petrie (QLD)"
+  },
+  {
+    "dataAutomationId": "205860613-market-item",
+    "electorate": "Rankin (QLD)"
+  },
+  {
+    "dataAutomationId": "209246608-market-item",
+    "electorate": "Wide Bay (QLD)"
+  },
+  {
+    "dataAutomationId": "209197781-market-item",
+    "electorate": "Wright (QLD)"
+  },
+  {
+    "dataAutomationId": "209128067-market-item",
+    "electorate": "Brand (WA)"
+  },
+  {
+    "dataAutomationId": "206871481-market-item",
+    "electorate": "Bullwinkel (WA)"
+  },
+  {
+    "dataAutomationId": "209128095-market-item",
+    "electorate": "Burt (WA)"
+  },
+  {
+    "dataAutomationId": "209128256-market-item",
+    "electorate": "Canning (WA)"
+  },
+  {
+    "dataAutomationId": "209128314-market-item",
+    "electorate": "Cowan (WA)"
+  },
+  {
+    "dataAutomationId": "206867407-market-item",
+    "electorate": "Curtin (WA)"
+  },
+  {
+    "dataAutomationId": "209128351-market-item",
+    "electorate": "Durack (WA)"
+  },
+  {
+    "dataAutomationId": "208715999-market-item",
+    "electorate": "Forrest (WA)"
+  },
+  {
+    "dataAutomationId": "209128430-market-item",
+    "electorate": "Fremantle (WA)"
+  },
+  {
+    "dataAutomationId": "208716580-market-item",
+    "electorate": "Hasluck (WA)"
+  },
+  {
+    "dataAutomationId": "207104096-market-item",
+    "electorate": "Moore (WA)"
+  },
+  {
+    "dataAutomationId": "209128486-market-item",
+    "electorate": "O'Connor (WA)"
+  },
+  {
+    "dataAutomationId": "207104141-market-item",
+    "electorate": "Pearce (WA)"
+  },
+  {
+    "dataAutomationId": "209128558-market-item",
+    "electorate": "Perth (WA)"
+  },
+  {
+    "dataAutomationId": "208722997-market-item",
+    "electorate": "Swan (WA)"
+  },
+  {
+    "dataAutomationId": "207104819-market-item",
+    "electorate": "Tangney (WA)"
+  },
+  {
+    "dataAutomationId": "207103767-market-item",
+    "electorate": "Boothby (SA)"
+  },
+  {
+    "dataAutomationId": "207104422-market-item",
+    "electorate": "Sturt (SA)"
+  },
+  {
+    "dataAutomationId": "208818267-market-item",
+    "electorate": "Adelaide (SA)"
+  },
+  {
+    "dataAutomationId": "208818366-market-item",
+    "electorate": "Barker (SA)"
+  },
+  {
+    "dataAutomationId": "208819319-market-item",
+    "electorate": "Grey (SA)"
+  },
+  {
+    "dataAutomationId": "208821073-market-item",
+    "electorate": "Hindmarsh (SA)"
+  },
+  {
+    "dataAutomationId": "208905742-market-item",
+    "electorate": "Kingston (SA)"
+  },
+  {
+    "dataAutomationId": "208905832-market-item",
+    "electorate": "Makin (SA)"
+  },
+  {
+    "dataAutomationId": "208905904-market-item",
+    "electorate": "Mayo (SA)"
+  },
+  {
+    "dataAutomationId": "208906030-market-item",
+    "electorate": "Spence (SA)"
+  },
+  {
+    "dataAutomationId": "205857746-market-item",
+    "electorate": "Lyons (TAS)"
+  },
+  {
+    "dataAutomationId": "208707742-market-item",
+    "electorate": "Bass (TAS)"
+  },
+  {
+    "dataAutomationId": "208814508-market-item",
+    "electorate": "Braddon (TAS)"
+  },
+  {
+    "dataAutomationId": "208814544-market-item",
+    "electorate": "Clark (TAS)"
+  },
+  {
+    "dataAutomationId": "208814615-market-item",
+    "electorate": "Franklin (TAS)"
+  },
+  {
+    "dataAutomationId": "207101968-market-item",
+    "electorate": "Lingiari (NT)"
+  },
+  {
+    "dataAutomationId": "208722819-market-item",
+    "electorate": "Solomon (NT)"
+  },
+  {
+    "dataAutomationId": "208800457-market-item",
+    "electorate": "Bean (ACT)"
+  },
+  {
+    "dataAutomationId": "208809127-market-item",
+    "electorate": "Canberra (ACT)"
+  },
+  {
+    "dataAutomationId": "208809277-market-item",
+    "electorate": "Fenner (ACT)"
+  }
+]

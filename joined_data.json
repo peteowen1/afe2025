@@ -1,0 +1,278 @@
+[
+  {
+    "dataAutomationId": "209192701-market-item",
+    "electorate": "Banks (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "16.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "209192784-market-item",
+    "electorate": "Barton (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.005", "16.00", "23.00"]
+  },
+  {
+    "dataAutomationId": "206871293-market-item",
+    "electorate": "Bennelong (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.28", "3.25", "26.00"]
+  },
+  {
+    "dataAutomationId": "209192882-market-item",
+    "electorate": "Berowra (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "23.00", "12.00"]
+  },
+  {
+    "dataAutomationId": "205854486-market-item",
+    "electorate": "Blaxland (NSW)",
+    "candidates": ["Labor", "Coalition", "Independent (Ahmed Ouf)", "Any Other Candidate"],
+    "prices": ["1.10", "7.25", "11.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "206871472-market-item",
+    "electorate": "Bradfield (NSW)",
+    "candidates": ["Coalition", "Independent (Nicolette Boele)", "Labor", "Any Other Candidate"],
+    "prices": ["1.75", "1.95", "26.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "206871779-market-item",
+    "electorate": "Calare (NSW)",
+    "candidates": ["Coalition", "Independent (Andrew Gee)", "Labor", "Any Other Candidate"],
+    "prices": ["1.60", "2.45", "26.00", "10.00"]
+  },
+  {
+    "dataAutomationId": "209192944-market-item",
+    "electorate": "Chifley (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.02", "9.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193029-market-item",
+    "electorate": "Cook (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "15.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "207101308-market-item",
+    "electorate": "Cowper (NSW)",
+    "candidates": ["Coalition", "Independent (Caz Heise)", "Labor", "Any Other Candidate"],
+    "prices": ["1.63", "2.14", "26.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193132-market-item",
+    "electorate": "Cunningham (NSW)",
+    "candidates": ["Labor", "Greens", "Coalition", "Any Other Candidate"],
+    "prices": ["1.03", "11.00", "21.00", "21.00"]
+  },
+  {
+    "dataAutomationId": "209193172-market-item",
+    "electorate": "Dobell (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.24", "3.90", "14.00"]
+  },
+  {
+    "dataAutomationId": "208715704-market-item",
+    "electorate": "Eden-Monaro (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.28", "3.30", "21.00"]
+  },
+  {
+    "dataAutomationId": "209193218-market-item",
+    "electorate": "Farrer (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "26.00", "11.00"]
+  },
+  {
+    "dataAutomationId": "206867665-market-item",
+    "electorate": "Fowler (NSW)",
+    "candidates": ["Independent (Dai Le)", "Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.35", "2.95", "23.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "207101593-market-item",
+    "electorate": "Gilmore (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.18", "4.70", "12.00"]
+  },
+  {
+    "dataAutomationId": "205854917-market-item",
+    "electorate": "Grayndler (NSW)",
+    "candidates": ["Labor", "Coalition", "Greens", "Any Other Candidate"],
+    "prices": ["1.005", "19.00", "19.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193233-market-item",
+    "electorate": "Greenway (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.10", "5.25", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193284-market-item",
+    "electorate": "Hughes (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.04", "7.25", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193428-market-item",
+    "electorate": "Hume (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "21.00", "19.00"]
+  },
+  {
+    "dataAutomationId": "207101862-market-item",
+    "electorate": "Hunter (NSW)",
+    "candidates": ["Labor", "Coalition", "One Nation", "Any Other Candidate"],
+    "prices": ["1.35", "3.05", "26.00", "21.00"]
+  },
+  {
+    "dataAutomationId": "209193440-market-item",
+    "electorate": "Kingsford Smith (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.01", "12.00", "16.00"]
+  },
+  {
+    "dataAutomationId": "209193448-market-item",
+    "electorate": "Lindsay (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "15.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193459-market-item",
+    "electorate": "Lyne (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.01", "26.00", "11.00"]
+  },
+  {
+    "dataAutomationId": "209193486-market-item",
+    "electorate": "Macarthur (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.08", "6.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "207103400-market-item",
+    "electorate": "Mackellar (NSW)",
+    "candidates": ["Independent (Sophie Scamps)", "Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.37", "2.85", "26.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193519-market-item",
+    "electorate": "Macquarie (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.31", "3.10", "19.00"]
+  },
+  {
+    "dataAutomationId": "209193533-market-item",
+    "electorate": "McMahon (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.03", "15.00", "10.00"]
+  },
+  {
+    "dataAutomationId": "209193821-market-item",
+    "electorate": "Mitchell (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "15.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "205860555-market-item",
+    "electorate": "New England (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.005", "26.00", "11.00"]
+  },
+  {
+    "dataAutomationId": "209193828-market-item",
+    "electorate": "Newcastle (NSW)",
+    "candidates": ["Labor", "Greens", "Coalition", "Any Other Candidate"],
+    "prices": ["1.01", "15.00", "21.00", "21.00"]
+  },
+  {
+    "dataAutomationId": "208719418-market-item",
+    "electorate": "Page (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.03", "12.00", "12.00"]
+  },
+  {
+    "dataAutomationId": "209193841-market-item",
+    "electorate": "Parkes (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.01", "26.00", "10.00"]
+  },
+  {
+    "dataAutomationId": "208719746-market-item",
+    "electorate": "Parramatta (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.19", "3.90", "26.00"]
+  },
+  {
+    "dataAutomationId": "208720202-market-item",
+    "electorate": "Paterson (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.63", "2.37", "9.50"]
+  },
+  {
+    "dataAutomationId": "208722773-market-item",
+    "electorate": "Reid (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.41", "2.62", "26.00"]
+  },
+  {
+    "dataAutomationId": "209193866-market-item",
+    "electorate": "Richmond (NSW)",
+    "candidates": ["Labor", "Greens", "Coalition", "Any Other Candidate"],
+    "prices": ["1.48", "3.30", "9.50", "13.00"]
+  },
+  {
+    "dataAutomationId": "209193985-market-item",
+    "electorate": "Riverina (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.02", "26.00", "9.00"]
+  },
+  {
+    "dataAutomationId": "207106646-market-item",
+    "electorate": "Robertson (NSW)",
+    "candidates": ["Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.75", "1.93", "26.00"]
+  },
+  {
+    "dataAutomationId": "209194049-market-item",
+    "electorate": "Shortland (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.13", "5.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "209194077-market-item",
+    "electorate": "Sydney (NSW)",
+    "candidates": ["Labor", "Greens", "Coalition", "Any Other Candidate"],
+    "prices": ["1.01", "11.00", "26.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "205856622-market-item",
+    "electorate": "Warringah (NSW)",
+    "candidates": ["Independent (Zali Steggall)", "Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.14", "4.70", "26.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "205860553-market-item",
+    "electorate": "Watson (NSW)",
+    "candidates": ["Labor", "Independent (Ziad Basyouny)", "Coalition", "Any Other Candidate"],
+    "prices": ["1.04", "9.00", "16.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "208723580-market-item",
+    "electorate": "Wentworth (NSW)",
+    "candidates": ["Independent (Allegra Spender)", "Coalition", "Labor", "Any Other Candidate"],
+    "prices": ["1.20", "3.90", "26.00", "26.00"]
+  },
+  {
+    "dataAutomationId": "208723608-market-item",
+    "electorate": "Werriwa (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.43", "2.50", "26.00"]
+  },
+  {
+    "dataAutomationId": "209194088-market-item",
+    "electorate": "Whitlam (NSW)",
+    "candidates": ["Labor", "Coalition", "Any Other Candidate"],
+    "prices": ["1.25", "3.50", "19.00"]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "party": "ALP",
+    "probability": "34.4"
+  },
+  {
+    "party": "LIB",
+    "probability": "32.9"
+  },
+  {
+    "party": "GRN",
+    "probability": "31.2"
+  },
+  {
+    "party": "IND*",
+    "probability": "1.2"
+  },
+  {
+    "party": "ON",
+    "probability": "0.2"
+  },
+  {
+    "party": "emerging party",
+    "probability": "0.0"
+  },
+  {
+    "party": "other candidate",
+    "probability": "0.0"
+  }
+]
