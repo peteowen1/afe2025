@@ -31,6 +31,9 @@ wider_data <- df %>%
     names_from = party,  # Each candidate becomes a column
     values_from = odds,      # The price values fill those columns
     values_fn = ~max(., na.rm=T)
+  ) %>%
+  filter(
+    !str_starts(seat,'lnc')
   )
 
 wider_data[is.na(wider_data)] <- 999
