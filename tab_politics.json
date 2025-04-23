@@ -987,13 +987,13 @@
     "state": "Seat NSW",
     "party_seat": "Labor (Macquarie)",
     "odds_primary": null,
-    "odds_secondary": "1.22"
+    "odds_secondary": "1.18"
   },
   {
     "state": "Seat NSW",
     "party_seat": "Coalition (Macquarie)",
     "odds_primary": null,
-    "odds_secondary": "3.75"
+    "odds_secondary": "4.25"
   },
   {
     "state": "Seat NSW",
@@ -1005,7 +1005,7 @@
     "state": "Seat NSW",
     "party_seat": "Labor (McMahon)",
     "odds_primary": null,
-    "odds_secondary": "1.25"
+    "odds_secondary": "1.12"
   },
   {
     "state": "Seat NSW",
@@ -1017,7 +1017,7 @@
     "state": "Seat NSW",
     "party_seat": "Any Other (McMahon)",
     "odds_primary": null,
-    "odds_secondary": "3.50"
+    "odds_secondary": "4.00"
   },
   {
     "state": "Seat NSW",
@@ -1329,13 +1329,13 @@
     "state": "Seat NSW",
     "party_seat": "Coalition (Wentworth)",
     "odds_primary": null,
-    "odds_secondary": "4.50"
+    "odds_secondary": "3.75"
   },
   {
     "state": "Seat NSW",
     "party_seat": "A Spender-IND(Wentworth)",
     "odds_primary": null,
-    "odds_secondary": "1.15"
+    "odds_secondary": "1.25"
   },
   {
     "state": "Seat NSW",
@@ -1977,13 +1977,13 @@
     "state": "Seat VIC",
     "party_seat": "Coalition (Kooyong)",
     "odds_primary": null,
-    "odds_secondary": "1.72"
+    "odds_secondary": "1.65"
   },
   {
     "state": "Seat VIC",
     "party_seat": "Monique Ryan-IND (Kooyong)",
     "odds_primary": null,
-    "odds_secondary": "2.00"
+    "odds_secondary": "2.10"
   },
   {
     "state": "Seat VIC",
@@ -2511,7 +2511,7 @@
     "state": "Seat QLD",
     "party_seat": "Labor (Petrie)",
     "odds_primary": null,
-    "odds_secondary": "11.00"
+    "odds_secondary": "9.00"
   },
   {
     "state": "Seat QLD",
@@ -3189,13 +3189,13 @@
     "state": "Seat SA",
     "party_seat": "Labor (Boothby)",
     "odds_primary": null,
-    "odds_secondary": "1.42"
+    "odds_secondary": "1.40"
   },
   {
     "state": "Seat SA",
     "party_seat": "Coalition (Boothby)",
     "odds_primary": null,
-    "odds_secondary": "2.65"
+    "odds_secondary": "2.70"
   },
   {
     "state": "Seat SA",
@@ -3207,19 +3207,19 @@
     "state": "Seat SA",
     "party_seat": "Coalition (Sturt)",
     "odds_primary": null,
-    "odds_secondary": "1.40"
+    "odds_secondary": "1.50"
   },
   {
     "state": "Seat SA",
     "party_seat": "Labor (Sturt)",
     "odds_primary": null,
-    "odds_secondary": "2.70"
+    "odds_secondary": "2.40"
   },
   {
     "state": "Seat SA",
     "party_seat": "Any Other (Sturt)",
     "odds_primary": null,
-    "odds_secondary": "8.00"
+    "odds_secondary": "10.00"
   },
   {
     "state": "Seat ACT",

@@ -4,15 +4,15 @@
     "data": [
       {
         "party": "GRN",
-        "probability": "42.4"
+        "probability": "43.0"
       },
       {
         "party": "ALP",
-        "probability": "30.7"
+        "probability": "31.5"
       },
       {
         "party": "LIB",
-        "probability": "26.8"
+        "probability": "25.4"
       },
       {
         "party": "ON",
@@ -20,6 +20,10 @@
       },
       {
         "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -33,11 +37,11 @@
       },
       {
         "party": "LIB",
-        "probability": "36.2"
+        "probability": "35.2"
       },
       {
         "party": "ALP",
-        "probability": "19.3"
+        "probability": "20.5"
       },
       {
         "party": "ON",
@@ -46,35 +50,6 @@
       {
         "party": "unknown",
         "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/gilmore",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "48.5"
-      },
-      {
-        "party": "LIB",
-        "probability": "45.1"
-      },
-      {
-        "party": "IND",
-        "probability": "6.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.3"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
       }
     ]
   },
@@ -83,15 +58,15 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "48.9"
+        "probability": "48.7"
       },
       {
         "party": "GRN",
-        "probability": "43.4"
+        "probability": "44.5"
       },
       {
         "party": "LIB",
-        "probability": "7.1"
+        "probability": "6.3"
       },
       {
         "party": "IND*",
@@ -112,26 +87,30 @@
     "data": [
       {
         "party": "IND",
-        "probability": "49.9"
+        "probability": "50.2"
       },
       {
         "party": "NAT",
-        "probability": "49.1"
+        "probability": "48.6"
       },
       {
         "party": "ON",
-        "probability": "0.7"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.1"
+        "probability": "0.9"
       },
       {
         "party": "IND*",
-        "probability": "0.1"
+        "probability": "0.2"
+      },
+      {
+        "party": "ALP",
+        "probability": "0.2"
       },
       {
         "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
         "probability": "0.0"
       },
       {
@@ -145,15 +124,15 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "53.4"
+        "probability": "51.3"
       },
       {
         "party": "IND",
-        "probability": "46.2"
+        "probability": "48.1"
       },
       {
         "party": "ALP",
-        "probability": "0.3"
+        "probability": "0.4"
       },
       {
         "party": "IND*",
@@ -169,6 +148,39 @@
       },
       {
         "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/gilmore",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "51.9"
+      },
+      {
+        "party": "LIB",
+        "probability": "41.7"
+      },
+      {
+        "party": "IND",
+        "probability": "6.1"
+      },
+      {
+        "party": "ON",
+        "probability": "0.3"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -178,19 +190,19 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "54.8"
+        "probability": "52.9"
       },
       {
         "party": "ALP",
-        "probability": "42.8"
+        "probability": "44.9"
       },
       {
         "party": "IND*",
-        "probability": "1.7"
+        "probability": "1.6"
       },
       {
         "party": "GRN",
-        "probability": "0.5"
+        "probability": "0.4"
       },
       {
         "party": "ON",
@@ -203,40 +215,19 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/kooyong",
-    "data": [
-      {
-        "party": "IND",
-        "probability": "56.1"
-      },
-      {
-        "party": "LIB",
-        "probability": "43.8"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/moore",
     "data": [
       {
         "party": "LIB",
-        "probability": "57.2"
+        "probability": "54.7"
       },
       {
         "party": "ALP",
-        "probability": "30.3"
+        "probability": "32.9"
       },
       {
         "party": "IND",
-        "probability": "12.1"
+        "probability": "11.8"
       },
       {
         "party": "GRN",
@@ -249,6 +240,60 @@
       {
         "party": "ON",
         "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/kooyong",
+    "data": [
+      {
+        "party": "IND",
+        "probability": "56.7"
+      },
+      {
+        "party": "LIB",
+        "probability": "43.2"
+      },
+      {
+        "party": "ALP",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/curtin",
+    "data": [
+      {
+        "party": "IND",
+        "probability": "59.9"
+      },
+      {
+        "party": "LIB",
+        "probability": "39.3"
+      },
+      {
+        "party": "ALP",
+        "probability": "0.7"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "emerging party",
@@ -265,19 +310,19 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "58.1"
+        "probability": "62.2"
       },
       {
         "party": "LIB",
-        "probability": "40.7"
+        "probability": "36.8"
       },
       {
         "party": "GRN",
-        "probability": "1.0"
+        "probability": "0.9"
       },
       {
         "party": "ON",
-        "probability": "0.2"
+        "probability": "0.1"
       },
       {
         "party": "emerging party",
@@ -286,19 +331,19 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/curtin",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/goldstein",
     "data": [
       {
         "party": "IND",
-        "probability": "59.9"
+        "probability": "62.9"
       },
       {
         "party": "LIB",
-        "probability": "39.4"
+        "probability": "36.9"
       },
       {
         "party": "ALP",
-        "probability": "0.6"
+        "probability": "0.2"
       },
       {
         "party": "unknown",
@@ -323,15 +368,15 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "62.1"
+        "probability": "62.9"
       },
       {
         "party": "GRN",
-        "probability": "28.4"
+        "probability": "28.8"
       },
       {
         "party": "NAT",
-        "probability": "7.1"
+        "probability": "6.0"
       },
       {
         "party": "IND*",
@@ -339,7 +384,7 @@
       },
       {
         "party": "ON",
-        "probability": "0.2"
+        "probability": "0.1"
       },
       {
         "party": "emerging party",
@@ -347,31 +392,6 @@
       },
       {
         "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/goldstein",
-    "data": [
-      {
-        "party": "IND",
-        "probability": "62.6"
-      },
-      {
-        "party": "LIB",
-        "probability": "37.2"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
         "probability": "0.0"
       }
     ]
@@ -381,11 +401,11 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "63.2"
+        "probability": "62.9"
       },
       {
         "party": "GRN",
-        "probability": "36.7"
+        "probability": "37.1"
       },
       {
         "party": "unknown",
@@ -401,31 +421,6 @@
       },
       {
         "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bennelong",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "64.2"
-      },
-      {
-        "party": "LIB",
-        "probability": "35.6"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
         "probability": "0.0"
       }
     ]
@@ -435,44 +430,15 @@
     "data": [
       {
         "party": "NAT",
-        "probability": "64.5"
+        "probability": "64.1"
       },
       {
         "party": "IND",
-        "probability": "35.3"
+        "probability": "35.8"
       },
       {
         "party": "ON",
         "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bullwinkel",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "65.3"
-      },
-      {
-        "party": "LIB",
-        "probability": "34.0"
-      },
-      {
-        "party": "NAT",
-        "probability": "0.6"
       },
       {
         "party": "unknown",
@@ -493,15 +459,15 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "66.5"
+        "probability": "64.8"
       },
       {
         "party": "ALP",
-        "probability": "31.7"
+        "probability": "33.6"
       },
       {
         "party": "IND*",
-        "probability": "1.5"
+        "probability": "1.4"
       },
       {
         "party": "GRN",
@@ -526,15 +492,15 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "67.6"
+        "probability": "65.8"
       },
       {
         "party": "ALP",
-        "probability": "29.8"
+        "probability": "31.8"
       },
       {
         "party": "IND",
-        "probability": "2.2"
+        "probability": "2.0"
       },
       {
         "party": "ON",
@@ -542,6 +508,31 @@
       },
       {
         "party": "GRN",
+        "probability": "0.2"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bennelong",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "68.2"
+      },
+      {
+        "party": "LIB",
+        "probability": "31.6"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "ON",
         "probability": "0.1"
       },
       {
@@ -559,15 +550,288 @@
     "data": [
       {
         "party": "IND",
-        "probability": "68.6"
+        "probability": "68.4"
       },
       {
         "party": "ALP",
-        "probability": "30.2"
+        "probability": "30.6"
       },
       {
         "party": "LIB",
-        "probability": "1.2"
+        "probability": "1.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bullwinkel",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "68.7"
+      },
+      {
+        "party": "LIB",
+        "probability": "28.3"
+      },
+      {
+        "party": "NAT",
+        "probability": "3.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/aston",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "69.1"
+      },
+      {
+        "party": "ALP",
+        "probability": "30.1"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.4"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.2"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/griffith",
+    "data": [
+      {
+        "party": "GRN",
+        "probability": "69.5"
+      },
+      {
+        "party": "ALP",
+        "probability": "28.0"
+      },
+      {
+        "party": "LIB",
+        "probability": "2.4"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/sturt",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "69.6"
+      },
+      {
+        "party": "ALP",
+        "probability": "27.4"
+      },
+      {
+        "party": "IND",
+        "probability": "2.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.7"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/wannon",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "69.8"
+      },
+      {
+        "party": "IND",
+        "probability": "30.0"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.1"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/leichhardt",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "71.2"
+      },
+      {
+        "party": "ALP",
+        "probability": "25.3"
+      },
+      {
+        "party": "IND*",
+        "probability": "2.5"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.6"
+      },
+      {
+        "party": "ON",
+        "probability": "0.5"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/monash",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "71.3"
+      },
+      {
+        "party": "IND",
+        "probability": "24.5"
+      },
+      {
+        "party": "ALP",
+        "probability": "3.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.5"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.3"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/canning",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "72.2"
+      },
+      {
+        "party": "ALP",
+        "probability": "27.6"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mackellar",
+    "data": [
+      {
+        "party": "IND",
+        "probability": "72.5"
+      },
+      {
+        "party": "LIB",
+        "probability": "27.5"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "unknown",
@@ -592,15 +856,15 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "68.7"
+        "probability": "72.7"
       },
       {
         "party": "LIB",
-        "probability": "30.5"
+        "probability": "26.7"
       },
       {
         "party": "IND*",
-        "probability": "0.5"
+        "probability": "0.4"
       },
       {
         "party": "GRN",
@@ -611,61 +875,11 @@
         "probability": "0.1"
       },
       {
-        "party": "ON",
-        "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/griffith",
-    "data": [
-      {
-        "party": "GRN",
-        "probability": "70.0"
-      },
-      {
-        "party": "ALP",
-        "probability": "27.3"
-      },
-      {
-        "party": "LIB",
-        "probability": "2.7"
-      },
-      {
         "party": "unknown",
         "probability": "0.0"
       },
       {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/wannon",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "70.9"
-      },
-      {
-        "party": "IND",
-        "probability": "28.9"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -675,304 +889,31 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "70.9"
+        "probability": "74.1"
       },
       {
         "party": "LIB",
-        "probability": "24.6"
+        "probability": "21.6"
       },
       {
         "party": "IND",
-        "probability": "3.4"
-      },
-      {
-        "party": "ON",
-        "probability": "0.5"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.4"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mackellar",
-    "data": [
-      {
-        "party": "IND",
-        "probability": "72.2"
-      },
-      {
-        "party": "LIB",
-        "probability": "27.8"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/leichhardt",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "72.7"
-      },
-      {
-        "party": "ALP",
-        "probability": "23.8"
-      },
-      {
-        "party": "IND*",
-        "probability": "2.3"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.6"
+        "probability": "3.2"
       },
       {
         "party": "ON",
         "probability": "0.6"
       },
       {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/monash",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "72.7"
-      },
-      {
-        "party": "IND",
-        "probability": "23.8"
-      },
-      {
-        "party": "ALP",
-        "probability": "2.6"
-      },
-      {
-        "party": "ON",
-        "probability": "0.4"
-      },
-      {
         "party": "IND*",
         "probability": "0.4"
       },
       {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/aston",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "73.0"
-      },
-      {
-        "party": "ALP",
-        "probability": "26.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.4"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.3"
-      },
-      {
-        "party": "ON",
+        "party": "unknown",
         "probability": "0.1"
       },
       {
         "party": "unknown",
-        "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/sturt",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "73.3"
-      },
-      {
-        "party": "ALP",
-        "probability": "23.7"
-      },
-      {
-        "party": "IND",
-        "probability": "2.3"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.6"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
         "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/canning",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "74.9"
-      },
-      {
-        "party": "ALP",
-        "probability": "24.8"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lingiari",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "75.8"
-      },
-      {
-        "party": "LIB",
-        "probability": "24.0"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mcpherson",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "78.6"
-      },
-      {
-        "party": "IND",
-        "probability": "18.7"
-      },
-      {
-        "party": "ALP",
-        "probability": "1.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.5"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.5"
-      },
-      {
-        "party": "ON",
-        "probability": "0.4"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mayo",
-    "data": [
-      {
-        "party": "CA",
-        "probability": "79.1"
-      },
-      {
-        "party": "LIB",
-        "probability": "13.2"
-      },
-      {
-        "party": "ALP",
-        "probability": "7.0"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.3"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
       },
       {
         "party": "other candidate",
@@ -985,11 +926,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "79.8"
+        "probability": "76.6"
       },
       {
         "party": "ALP",
-        "probability": "19.2"
+        "probability": "22.5"
       },
       {
         "party": "GRN",
@@ -1000,11 +941,11 @@
         "probability": "0.3"
       },
       {
-        "party": "ON",
+        "party": "unknown",
         "probability": "0.1"
       },
       {
-        "party": "unknown",
+        "party": "ON",
         "probability": "0.1"
       },
       {
@@ -1014,23 +955,15 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/dunkley",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lingiari",
     "data": [
       {
         "party": "ALP",
-        "probability": "80.2"
+        "probability": "77.4"
       },
       {
         "party": "LIB",
-        "probability": "19.3"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
+        "probability": "22.4"
       },
       {
         "party": "ON",
@@ -1041,7 +974,73 @@
         "probability": "0.0"
       },
       {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
         "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mayo",
+    "data": [
+      {
+        "party": "CA",
+        "probability": "78.5"
+      },
+      {
+        "party": "LIB",
+        "probability": "12.3"
+      },
+      {
+        "party": "ALP",
+        "probability": "8.5"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.3"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mcpherson",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "78.6"
+      },
+      {
+        "party": "IND",
+        "probability": "18.5"
+      },
+      {
+        "party": "ALP",
+        "probability": "1.6"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.6"
+      },
+      {
+        "party": "ON",
+        "probability": "0.4"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.4"
+      },
+      {
+        "party": "emerging party",
         "probability": "0.0"
       }
     ]
@@ -1051,15 +1050,15 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "80.3"
+        "probability": "79.2"
       },
       {
         "party": "IND",
-        "probability": "10.8"
+        "probability": "10.7"
       },
       {
         "party": "ALP",
-        "probability": "8.2"
+        "probability": "9.4"
       },
       {
         "party": "ON",
@@ -1080,19 +1079,19 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/robertson",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/banks",
     "data": [
       {
-        "party": "ALP",
-        "probability": "80.7"
+        "party": "LIB",
+        "probability": "79.6"
       },
       {
-        "party": "LIB",
-        "probability": "18.0"
+        "party": "ALP",
+        "probability": "19.8"
       },
       {
         "party": "IND*",
-        "probability": "1.1"
+        "probability": "0.4"
       },
       {
         "party": "ON",
@@ -1109,52 +1108,27 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bruce",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/menzies",
     "data": [
       {
-        "party": "ALP",
-        "probability": "80.8"
-      },
-      {
         "party": "LIB",
-        "probability": "19.0"
+        "probability": "80.0"
       },
       {
-        "party": "ON",
-        "probability": "0.1"
+        "party": "ALP",
+        "probability": "19.1"
       },
       {
         "party": "GRN",
-        "probability": "0.1"
+        "probability": "0.5"
       },
       {
-        "party": "unknown",
-        "probability": "0.1"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/tangney",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "81.3"
-      },
-      {
-        "party": "LIB",
-        "probability": "18.6"
+        "party": "IND*",
+        "probability": "0.3"
       },
       {
         "party": "ON",
         "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
       },
       {
         "party": "emerging party",
@@ -1167,11 +1141,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "82.1"
+        "probability": "80.2"
       },
       {
         "party": "ALP",
-        "probability": "17.1"
+        "probability": "19.1"
       },
       {
         "party": "ON",
@@ -1188,64 +1162,85 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/banks",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/durack",
     "data": [
       {
         "party": "LIB",
-        "probability": "82.8"
+        "probability": "82.5"
+      },
+      {
+        "party": "NAT",
+        "probability": "12.2"
       },
       {
         "party": "ALP",
-        "probability": "16.6"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.4"
+        "probability": "4.7"
       },
       {
         "party": "ON",
-        "probability": "0.1"
+        "probability": "0.4"
       },
       {
         "party": "GRN",
         "probability": "0.1"
       },
       {
-        "party": "emerging party",
-        "probability": "0.0"
+        "party": "unknown",
+        "probability": "0.1"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/dunkley",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "83.0"
       },
       {
-        "party": "other candidate",
+        "party": "LIB",
+        "probability": "16.5"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.3"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
         "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/durack",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bruce",
     "data": [
       {
-        "party": "LIB",
-        "probability": "82.9"
-      },
-      {
-        "party": "NAT",
-        "probability": "12.3"
-      },
-      {
         "party": "ALP",
-        "probability": "4.2"
+        "probability": "83.4"
+      },
+      {
+        "party": "LIB",
+        "probability": "16.3"
       },
       {
         "party": "ON",
-        "probability": "0.4"
+        "probability": "0.1"
       },
       {
         "party": "GRN",
-        "probability": "0.2"
+        "probability": "0.1"
       },
       {
-        "party": "emerging party",
-        "probability": "0.0"
+        "party": "unknown",
+        "probability": "0.1"
       }
     ]
   },
@@ -1254,11 +1249,11 @@
     "data": [
       {
         "party": "IND",
-        "probability": "82.9"
+        "probability": "83.6"
       },
       {
         "party": "LIB",
-        "probability": "16.6"
+        "probability": "15.9"
       },
       {
         "party": "ALP",
@@ -1267,6 +1262,35 @@
       {
         "party": "unknown",
         "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/robertson",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "83.8"
+      },
+      {
+        "party": "LIB",
+        "probability": "15.1"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.9"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
       },
       {
         "party": "emerging party",
@@ -1283,27 +1307,56 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/menzies",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/tangney",
     "data": [
       {
-        "party": "LIB",
-        "probability": "83.1"
-      },
-      {
         "party": "ALP",
-        "probability": "16.0"
+        "probability": "83.8"
       },
       {
-        "party": "GRN",
-        "probability": "0.5"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.2"
+        "party": "LIB",
+        "probability": "16.1"
       },
       {
         "party": "ON",
         "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/fremantle",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "84.2"
+      },
+      {
+        "party": "IND",
+        "probability": "15.6"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.2"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "emerging party",
@@ -1320,11 +1373,11 @@
     "data": [
       {
         "party": "IND",
-        "probability": "83.5"
+        "probability": "84.4"
       },
       {
         "party": "LIB",
-        "probability": "16.4"
+        "probability": "15.5"
       },
       {
         "party": "unknown",
@@ -1341,15 +1394,48 @@
     ]
   },
   {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/o'connor",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "85.3"
+      },
+      {
+        "party": "NAT",
+        "probability": "12.8"
+      },
+      {
+        "party": "ALP",
+        "probability": "1.4"
+      },
+      {
+        "party": "ON",
+        "probability": "0.3"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/boothby",
     "data": [
       {
         "party": "ALP",
-        "probability": "84.2"
+        "probability": "86.5"
       },
       {
         "party": "LIB",
-        "probability": "14.7"
+        "probability": "12.4"
       },
       {
         "party": "GRN",
@@ -1366,69 +1452,15 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/fremantle",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "84.3"
-      },
-      {
-        "party": "IND",
-        "probability": "15.5"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.2"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/blair",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "87.0"
-      },
-      {
-        "party": "LIB",
-        "probability": "8.9"
-      },
-      {
-        "party": "ON",
-        "probability": "2.8"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.9"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.4"
-      }
-    ]
-  },
-  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/flinders",
     "data": [
       {
         "party": "LIB",
-        "probability": "87.4"
+        "probability": "86.6"
       },
       {
         "party": "IND",
-        "probability": "11.9"
+        "probability": "12.5"
       },
       {
         "party": "IND*",
@@ -1436,65 +1468,7 @@
       },
       {
         "party": "ALP",
-        "probability": "0.2"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/corangamite",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "88.3"
-      },
-      {
-        "party": "LIB",
-        "probability": "9.7"
-      },
-      {
-        "party": "IND*",
-        "probability": "1.0"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.9"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/parramatta",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "88.3"
-      },
-      {
-        "party": "LIB",
-        "probability": "11.0"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.6"
+        "probability": "0.4"
       },
       {
         "party": "ON",
@@ -1519,11 +1493,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "88.3"
+        "probability": "87.5"
       },
       {
         "party": "ALP",
-        "probability": "9.5"
+        "probability": "10.5"
       },
       {
         "party": "ON",
@@ -1535,94 +1509,11 @@
       },
       {
         "party": "GRN",
-        "probability": "0.3"
+        "probability": "0.2"
       },
       {
         "party": "unknown",
         "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mcmahon",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "88.4"
-      },
-      {
-        "party": "IND",
-        "probability": "11.2"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/o'connor",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "88.8"
-      },
-      {
-        "party": "NAT",
-        "probability": "9.4"
-      },
-      {
-        "party": "ALP",
-        "probability": "1.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/melbourne",
-    "data": [
-      {
-        "party": "GRN",
-        "probability": "89.0"
-      },
-      {
-        "party": "ALP",
-        "probability": "10.9"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
       }
     ]
   },
@@ -1631,11 +1522,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "89.1"
+        "probability": "87.6"
       },
       {
         "party": "ALP",
-        "probability": "5.8"
+        "probability": "7.4"
       },
       {
         "party": "IND",
@@ -1647,11 +1538,15 @@
       },
       {
         "party": "unknown",
-        "probability": "0.1"
+        "probability": "0.2"
       },
       {
         "party": "ON",
         "probability": "0.1"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
       }
     ]
   },
@@ -1660,22 +1555,126 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "89.3"
+        "probability": "87.9"
       },
       {
         "party": "ALP",
-        "probability": "9.2"
+        "probability": "10.4"
       },
       {
         "party": "GRN",
-        "probability": "1.3"
+        "probability": "1.5"
       },
       {
         "party": "ON",
-        "probability": "0.2"
+        "probability": "0.1"
       },
       {
         "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/blair",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "88.2"
+      },
+      {
+        "party": "LIB",
+        "probability": "7.8"
+      },
+      {
+        "party": "ON",
+        "probability": "2.7"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.8"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.4"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/melbourne",
+    "data": [
+      {
+        "party": "GRN",
+        "probability": "88.7"
+      },
+      {
+        "party": "ALP",
+        "probability": "11.3"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.1"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/mcmahon",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "89.1"
+      },
+      {
+        "party": "IND",
+        "probability": "10.7"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.2"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hughes",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "89.1"
+      },
+      {
+        "party": "ALP",
+        "probability": "10.6"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -1685,23 +1684,23 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "89.5"
+        "probability": "89.2"
       },
       {
         "party": "ALP",
-        "probability": "5.3"
+        "probability": "5.8"
       },
       {
         "party": "ON",
-        "probability": "2.8"
+        "probability": "2.7"
       },
       {
         "party": "IND*",
-        "probability": "2.1"
+        "probability": "1.9"
       },
       {
         "party": "unknown",
-        "probability": "0.4"
+        "probability": "0.3"
       },
       {
         "party": "unknown",
@@ -1710,27 +1709,114 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hunter",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/cooper",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "89.7"
+      },
+      {
+        "party": "GRN",
+        "probability": "10.3"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/corangamite",
     "data": [
       {
         "party": "ALP",
         "probability": "89.8"
       },
       {
-        "party": "NAT",
-        "probability": "8.7"
-      },
-      {
-        "party": "ON",
-        "probability": "1.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.3"
+        "party": "LIB",
+        "probability": "8.3"
       },
       {
         "party": "GRN",
+        "probability": "0.9"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.9"
+      },
+      {
+        "party": "ON",
         "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/braddon",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "90.0"
+      },
+      {
+        "party": "ALP",
+        "probability": "8.1"
+      },
+      {
+        "party": "IND*",
+        "probability": "1.8"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/parramatta",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "90.4"
+      },
+      {
+        "party": "LIB",
+        "probability": "9.0"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.5"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
       }
     ]
   },
@@ -1739,11 +1825,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "90.3"
+        "probability": "90.4"
       },
       {
         "party": "IND",
-        "probability": "8.6"
+        "probability": "8.5"
       },
       {
         "party": "ON",
@@ -1760,55 +1846,34 @@
       {
         "party": "emerging party",
         "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/braddon",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/kennedy",
     "data": [
       {
+        "party": "KAP",
+        "probability": "91.0"
+      },
+      {
         "party": "LIB",
-        "probability": "90.4"
-      },
-      {
-        "party": "ALP",
-        "probability": "7.5"
-      },
-      {
-        "party": "IND*",
-        "probability": "1.9"
+        "probability": "7.8"
       },
       {
         "party": "ON",
-        "probability": "0.1"
+        "probability": "0.6"
       },
       {
-        "party": "unknown",
-        "probability": "0.0"
+        "party": "ALP",
+        "probability": "0.3"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.2"
       },
       {
         "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/cooper",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "90.9"
-      },
-      {
-        "party": "GRN",
-        "probability": "9.0"
-      },
-      {
-        "party": "unknown",
         "probability": "0.0"
       },
       {
@@ -1822,15 +1887,15 @@
     "data": [
       {
         "party": "IND",
-        "probability": "91.0"
+        "probability": "91.1"
       },
       {
         "party": "LIB",
-        "probability": "8.3"
+        "probability": "8.0"
       },
       {
         "party": "ALP",
-        "probability": "0.6"
+        "probability": "0.8"
       },
       {
         "party": "unknown",
@@ -1851,15 +1916,98 @@
     ]
   },
   {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hunter",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "91.3"
+      },
+      {
+        "party": "NAT",
+        "probability": "7.2"
+      },
+      {
+        "party": "ON",
+        "probability": "1.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.3"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/canberra",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "91.7"
+      },
+      {
+        "party": "GRN",
+        "probability": "8.1"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/petrie",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "92.4"
+      },
+      {
+        "party": "ALP",
+        "probability": "6.9"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.4"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/reid",
     "data": [
       {
         "party": "ALP",
-        "probability": "91.2"
+        "probability": "92.6"
       },
       {
         "party": "LIB",
-        "probability": "6.6"
+        "probability": "5.3"
       },
       {
         "party": "IND",
@@ -1880,44 +2028,15 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hughes",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "91.3"
-      },
-      {
-        "party": "ALP",
-        "probability": "8.3"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.2"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/holt",
     "data": [
       {
         "party": "ALP",
-        "probability": "91.5"
+        "probability": "93.0"
       },
       {
         "party": "LIB",
-        "probability": "8.3"
+        "probability": "6.8"
       },
       {
         "party": "ON",
@@ -1929,6 +2048,31 @@
       },
       {
         "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/moreton",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "93.1"
+      },
+      {
+        "party": "LIB",
+        "probability": "3.9"
+      },
+      {
+        "party": "GRN",
+        "probability": "2.9"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
         "probability": "0.0"
       }
     ]
@@ -1938,15 +2082,15 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "91.5"
+        "probability": "93.3"
       },
       {
         "party": "LIB",
-        "probability": "7.8"
+        "probability": "6.1"
       },
       {
         "party": "IND*",
-        "probability": "0.4"
+        "probability": "0.3"
       },
       {
         "party": "ON",
@@ -1958,43 +2102,6 @@
       },
       {
         "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/kennedy",
-    "data": [
-      {
-        "party": "KAP",
-        "probability": "91.6"
-      },
-      {
-        "party": "LIB",
-        "probability": "7.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.6"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.2"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.2"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
         "probability": "0.0"
       },
       {
@@ -2008,48 +2115,19 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "91.8"
+        "probability": "93.3"
       },
       {
         "party": "LIB",
-        "probability": "8.0"
+        "probability": "6.5"
       },
       {
         "party": "ON",
-        "probability": "0.2"
+        "probability": "0.1"
       },
       {
         "party": "GRN",
         "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/canberra",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "92.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "7.7"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.2"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
       },
       {
         "party": "emerging party",
@@ -2062,135 +2140,23 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "92.4"
-      },
-      {
-        "party": "LIB",
-        "probability": "6.1"
-      },
-      {
-        "party": "IND*",
-        "probability": "1.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/macquarie",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "92.6"
-      },
-      {
-        "party": "LIB",
-        "probability": "7.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/petrie",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "93.0"
-      },
-      {
-        "party": "ALP",
-        "probability": "6.3"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.4"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/moreton",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "93.0"
-      },
-      {
-        "party": "LIB",
-        "probability": "4.3"
-      },
-      {
-        "party": "GRN",
-        "probability": "2.6"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/dobell",
-    "data": [
-      {
-        "party": "ALP",
         "probability": "93.5"
       },
       {
         "party": "LIB",
-        "probability": "6.1"
+        "probability": "5.0"
+      },
+      {
+        "party": "IND*",
+        "probability": "1.2"
       },
       {
         "party": "ON",
         "probability": "0.2"
       },
       {
-        "party": "emerging party",
-        "probability": "0.0"
+        "party": "unknown",
+        "probability": "0.1"
       },
       {
         "party": "unknown",
@@ -2207,19 +2173,77 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "94.0"
+        "probability": "93.9"
       },
       {
         "party": "GRN",
-        "probability": "4.1"
+        "probability": "4.3"
       },
       {
         "party": "LIB",
-        "probability": "1.8"
+        "probability": "1.7"
       },
       {
         "party": "ON",
         "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/macquarie",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "94.1"
+      },
+      {
+        "party": "LIB",
+        "probability": "5.6"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lindsay",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "94.3"
+      },
+      {
+        "party": "ALP",
+        "probability": "5.2"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.2"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "emerging party",
@@ -2236,11 +2260,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "94.9"
+        "probability": "94.7"
       },
       {
         "party": "IND",
-        "probability": "4.6"
+        "probability": "4.8"
       },
       {
         "party": "ON",
@@ -2251,37 +2275,29 @@
         "probability": "0.2"
       },
       {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
         "party": "unknown",
         "probability": "0.0"
       },
       {
-        "party": "other candidate",
+        "party": "emerging party",
         "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/greenway",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/dobell",
     "data": [
       {
         "party": "ALP",
-        "probability": "95.2"
+        "probability": "94.7"
       },
       {
         "party": "LIB",
-        "probability": "4.4"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.3"
+        "probability": "5.0"
       },
       {
         "party": "ON",
-        "probability": "0.1"
+        "probability": "0.3"
       },
       {
         "party": "unknown",
@@ -2289,10 +2305,6 @@
       },
       {
         "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -2302,19 +2314,19 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "95.3"
+        "probability": "95.1"
       },
       {
         "party": "IND",
-        "probability": "3.5"
+        "probability": "3.4"
       },
       {
         "party": "ON",
-        "probability": "0.5"
+        "probability": "0.6"
       },
       {
         "party": "ALP",
-        "probability": "0.4"
+        "probability": "0.5"
       },
       {
         "party": "GRN",
@@ -2322,6 +2334,93 @@
       },
       {
         "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bowman",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "95.7"
+      },
+      {
+        "party": "ALP",
+        "probability": "3.4"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.3"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.3"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/fairfax",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "95.7"
+      },
+      {
+        "party": "IND",
+        "probability": "3.1"
+      },
+      {
+        "party": "ALP",
+        "probability": "0.5"
+      },
+      {
+        "party": "ON",
+        "probability": "0.4"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.2"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/capricornia",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "95.9"
+      },
+      {
+        "party": "ALP",
+        "probability": "2.8"
+      },
+      {
+        "party": "ON",
+        "probability": "1.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
         "probability": "0.0"
       },
       {
@@ -2331,69 +2430,15 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lindsay",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "95.3"
-      },
-      {
-        "party": "ALP",
-        "probability": "4.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.3"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/isaacs",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "95.4"
-      },
-      {
-        "party": "LIB",
-        "probability": "4.4"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/solomon",
     "data": [
       {
         "party": "ALP",
-        "probability": "95.7"
+        "probability": "96.1"
       },
       {
         "party": "LIB",
-        "probability": "3.2"
+        "probability": "2.7"
       },
       {
         "party": "IND*",
@@ -2408,219 +2453,8 @@
         "probability": "0.1"
       },
       {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hawke",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "95.7"
-      },
-      {
-        "party": "LIB",
-        "probability": "3.9"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/fairfax",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "95.8"
-      },
-      {
-        "party": "IND",
-        "probability": "3.0"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.5"
-      },
-      {
-        "party": "ON",
-        "probability": "0.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.2"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bowman",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "95.9"
-      },
-      {
-        "party": "ALP",
-        "probability": "3.0"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.5"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.3"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/capricornia",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "96.0"
-      },
-      {
-        "party": "ALP",
-        "probability": "2.8"
-      },
-      {
-        "party": "ON",
-        "probability": "1.1"
-      },
-      {
         "party": "unknown",
         "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/watson",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "96.0"
-      },
-      {
-        "party": "IND",
-        "probability": "3.7"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.1"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/calwell",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "96.1"
-      },
-      {
-        "party": "LIB",
-        "probability": "3.0"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.4"
-      },
-      {
-        "party": "ON",
-        "probability": "0.3"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hindmarsh",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "96.1"
-      },
-      {
-        "party": "LIB",
-        "probability": "3.0"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.4"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
       },
       {
         "party": "other candidate",
@@ -2654,6 +2488,10 @@
       {
         "party": "unknown",
         "probability": "0.1"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
       }
     ]
   },
@@ -2662,11 +2500,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "96.4"
+        "probability": "96.2"
       },
       {
         "party": "IND*",
-        "probability": "2.1"
+        "probability": "2.2"
       },
       {
         "party": "ON",
@@ -2674,15 +2512,106 @@
       },
       {
         "party": "ALP",
-        "probability": "0.5"
+        "probability": "0.6"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
       },
       {
         "party": "GRN",
         "probability": "0.1"
       },
       {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/greenway",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "96.2"
+      },
+      {
+        "party": "LIB",
+        "probability": "3.4"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.2"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/isaacs",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "96.3"
+      },
+      {
+        "party": "LIB",
+        "probability": "3.5"
+      },
+      {
         "party": "unknown",
         "probability": "0.1"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/watson",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "96.5"
+      },
+      {
+        "party": "IND",
+        "probability": "3.3"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.1"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
       },
       {
         "party": "other candidate",
@@ -2699,11 +2628,160 @@
       },
       {
         "party": "GRN",
-        "probability": "2.9"
+        "probability": "3.0"
       },
       {
         "party": "LIB",
         "probability": "0.4"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/calwell",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "96.7"
+      },
+      {
+        "party": "LIB",
+        "probability": "2.5"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hawke",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "96.7"
+      },
+      {
+        "party": "LIB",
+        "probability": "3.0"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hinkler",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "96.8"
+      },
+      {
+        "party": "IND*",
+        "probability": "1.5"
+      },
+      {
+        "party": "ON",
+        "probability": "0.9"
+      },
+      {
+        "party": "ALP",
+        "probability": "0.7"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/clark",
+    "data": [
+      {
+        "party": "IND",
+        "probability": "96.9"
+      },
+      {
+        "party": "LIB",
+        "probability": "1.2"
+      },
+      {
+        "party": "ALP",
+        "probability": "1.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.6"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hindmarsh",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "97.0"
+      },
+      {
+        "party": "LIB",
+        "probability": "2.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.4"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.3"
       },
       {
         "party": "ON",
@@ -2712,19 +2790,52 @@
     ]
   },
   {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/jagajaga",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "97.2"
+      },
+      {
+        "party": "LIB",
+        "probability": "1.4"
+      },
+      {
+        "party": "GRN",
+        "probability": "1.1"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.2"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/whitlam",
     "data": [
       {
         "party": "ALP",
-        "probability": "96.6"
+        "probability": "97.2"
       },
       {
         "party": "LIB",
-        "probability": "1.9"
+        "probability": "1.6"
       },
       {
         "party": "IND*",
-        "probability": "1.0"
+        "probability": "0.8"
       },
       {
         "party": "ON",
@@ -2745,55 +2856,34 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/clark",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/page",
     "data": [
       {
-        "party": "IND",
-        "probability": "96.6"
-      },
-      {
-        "party": "LIB",
-        "probability": "1.4"
-      },
-      {
-        "party": "ALP",
-        "probability": "1.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.6"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hinkler",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "96.8"
+        "party": "NAT",
+        "probability": "97.2"
       },
       {
         "party": "IND*",
         "probability": "1.6"
       },
       {
-        "party": "ON",
-        "probability": "0.9"
+        "party": "GRN",
+        "probability": "0.5"
       },
       {
         "party": "ALP",
-        "probability": "0.6"
+        "probability": "0.4"
       },
       {
-        "party": "unknown",
-        "probability": "0.0"
+        "party": "ON",
+        "probability": "0.2"
       },
       {
         "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -2803,15 +2893,15 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "96.8"
+        "probability": "97.3"
       },
       {
         "party": "LIB",
-        "probability": "2.7"
+        "probability": "2.2"
       },
       {
         "party": "ON",
-        "probability": "0.4"
+        "probability": "0.3"
       },
       {
         "party": "unknown",
@@ -2820,27 +2910,114 @@
       {
         "party": "unknown",
         "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/jagajaga",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/franklin",
     "data": [
       {
         "party": "ALP",
-        "probability": "96.9"
-      },
-      {
-        "party": "LIB",
-        "probability": "1.7"
+        "probability": "97.3"
       },
       {
         "party": "GRN",
+        "probability": "1.3"
+      },
+      {
+        "party": "LIB",
         "probability": "1.1"
       },
       {
         "party": "IND*",
-        "probability": "0.2"
+        "probability": "0.3"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bean",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "97.3"
+      },
+      {
+        "party": "IND",
+        "probability": "2.6"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hume",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "97.3"
+      },
+      {
+        "party": "IND*",
+        "probability": "1.2"
+      },
+      {
+        "party": "ALP",
+        "probability": "1.1"
+      },
+      {
+        "party": "ON",
+        "probability": "0.4"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/newcastle",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "97.4"
+      },
+      {
+        "party": "GRN",
+        "probability": "2.1"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.3"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.1"
       },
       {
         "party": "ON",
@@ -2861,15 +3038,15 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "96.9"
+        "probability": "97.6"
       },
       {
         "party": "LIB",
-        "probability": "1.3"
+        "probability": "0.9"
       },
       {
         "party": "IND*",
-        "probability": "1.1"
+        "probability": "0.9"
       },
       {
         "party": "GRN",
@@ -2885,126 +3062,6 @@
       },
       {
         "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/page",
-    "data": [
-      {
-        "party": "NAT",
-        "probability": "96.9"
-      },
-      {
-        "party": "IND*",
-        "probability": "1.8"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.5"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.4"
-      },
-      {
-        "party": "ON",
-        "probability": "0.3"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/bean",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "97.0"
-      },
-      {
-        "party": "IND",
-        "probability": "2.9"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/franklin",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "97.0"
-      },
-      {
-        "party": "LIB",
-        "probability": "1.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "1.2"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/newcastle",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "97.4"
-      },
-      {
-        "party": "GRN",
-        "probability": "2.0"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.4"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.1"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -3014,11 +3071,11 @@
     "data": [
       {
         "party": "NAT",
-        "probability": "97.5"
+        "probability": "97.6"
       },
       {
         "party": "IND*",
-        "probability": "1.8"
+        "probability": "1.7"
       },
       {
         "party": "ON",
@@ -3035,9 +3092,92 @@
       {
         "party": "emerging party",
         "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/farrer",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "97.7"
       },
       {
-        "party": "other candidate",
+        "party": "IND",
+        "probability": "2.0"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/berowra",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "97.8"
+      },
+      {
+        "party": "GRN",
+        "probability": "1.1"
+      },
+      {
+        "party": "ALP",
+        "probability": "0.6"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lyne",
+    "data": [
+      {
+        "party": "NAT",
+        "probability": "98.0"
+      },
+      {
+        "party": "IND*",
+        "probability": "1.5"
+      },
+      {
+        "party": "ON",
+        "probability": "0.4"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
         "probability": "0.0"
       }
     ]
@@ -3047,11 +3187,11 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "97.5"
+        "probability": "98.0"
       },
       {
         "party": "LIB",
-        "probability": "2.3"
+        "probability": "1.8"
       },
       {
         "party": "ON",
@@ -3064,30 +3204,34 @@
       {
         "party": "unknown",
         "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hume",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/moncrieff",
     "data": [
       {
         "party": "LIB",
-        "probability": "97.6"
+        "probability": "98.0"
       },
       {
         "party": "IND*",
-        "probability": "1.1"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.9"
-      },
-      {
-        "party": "ON",
-        "probability": "0.4"
+        "probability": "1.4"
       },
       {
         "party": "GRN",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "ALP",
         "probability": "0.1"
       },
       {
@@ -3105,47 +3249,26 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "97.6"
+        "probability": "98.2"
       },
       {
         "party": "LIB",
-        "probability": "1.9"
+        "probability": "1.4"
       },
       {
         "party": "IND*",
-        "probability": "0.4"
+        "probability": "0.3"
       },
       {
         "party": "ON",
         "probability": "0.1"
       },
       {
-        "party": "GRN",
-        "probability": "0.1"
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/maribyrnong",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "97.7"
-      },
-      {
-        "party": "LIB",
-        "probability": "2.1"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.2"
-      },
-      {
-        "party": "unknown",
         "probability": "0.0"
       },
       {
@@ -3155,59 +3278,51 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/farrer",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lilley",
     "data": [
       {
-        "party": "LIB",
-        "probability": "97.9"
+        "party": "ALP",
+        "probability": "98.2"
       },
       {
-        "party": "IND",
-        "probability": "1.9"
+        "party": "LIB",
+        "probability": "1.1"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.7"
       },
       {
         "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
+        "probability": "0.1"
       },
       {
         "party": "emerging party",
         "probability": "0.0"
       },
       {
-        "party": "unknown",
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/moncrieff",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/maribyrnong",
     "data": [
       {
-        "party": "LIB",
-        "probability": "97.9"
+        "party": "ALP",
+        "probability": "98.2"
       },
       {
-        "party": "IND*",
-        "probability": "1.3"
+        "party": "LIB",
+        "probability": "1.5"
       },
       {
         "party": "GRN",
-        "probability": "0.4"
-      },
-      {
-        "party": "ON",
         "probability": "0.2"
       },
       {
-        "party": "ALP",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
+        "party": "unknown",
         "probability": "0.0"
       },
       {
@@ -3221,106 +3336,19 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "97.9"
+        "probability": "98.3"
       },
       {
         "party": "LIB",
-        "probability": "1.9"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lyne",
-    "data": [
-      {
-        "party": "NAT",
-        "probability": "97.9"
-      },
-      {
-        "party": "IND*",
         "probability": "1.6"
       },
       {
         "party": "ON",
-        "probability": "0.4"
-      },
-      {
-        "party": "GRN",
         "probability": "0.1"
       },
       {
         "party": "unknown",
         "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/berowra",
-    "data": [
-      {
-        "party": "LIB",
-        "probability": "98.1"
-      },
-      {
-        "party": "GRN",
-        "probability": "1.0"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.4"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/corio",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "98.1"
-      },
-      {
-        "party": "IND*",
-        "probability": "1.0"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.7"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.2"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
       },
       {
         "party": "emerging party",
@@ -3333,15 +3361,77 @@
     ]
   },
   {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/spence",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "98.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.9"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.2"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.2"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/corio",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "98.4"
+      },
+      {
+        "party": "IND*",
+        "probability": "0.9"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.5"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.2"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
     "url": "https://www.aeforecasts.com/seat/2025fed/regular/rankin",
     "data": [
       {
         "party": "ALP",
-        "probability": "98.1"
+        "probability": "98.4"
       },
       {
         "party": "LIB",
-        "probability": "1.6"
+        "probability": "1.4"
       },
       {
         "party": "ON",
@@ -3366,11 +3456,11 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "98.1"
+        "probability": "98.4"
       },
       {
         "party": "GRN",
-        "probability": "1.7"
+        "probability": "1.5"
       },
       {
         "party": "LIB",
@@ -3383,59 +3473,34 @@
       {
         "party": "emerging party",
         "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/spence",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/fraser",
     "data": [
       {
         "party": "ALP",
-        "probability": "98.1"
+        "probability": "98.4"
       },
       {
-        "party": "ON",
-        "probability": "1.0"
+        "party": "GRN",
+        "probability": "1.3"
       },
       {
         "party": "LIB",
-        "probability": "0.3"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.3"
+        "probability": "0.2"
       },
       {
         "party": "unknown",
-        "probability": "0.3"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/lilley",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "98.2"
-      },
-      {
-        "party": "LIB",
-        "probability": "1.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.6"
-      },
-      {
-        "party": "ON",
         "probability": "0.1"
       },
       {
-        "party": "emerging party",
+        "party": "unknown",
         "probability": "0.0"
       }
     ]
@@ -3445,11 +3510,11 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "98.2"
+        "probability": "98.5"
       },
       {
         "party": "LIB",
-        "probability": "1.5"
+        "probability": "1.1"
       },
       {
         "party": "GRN",
@@ -3474,88 +3539,22 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "98.3"
-      },
-      {
-        "party": "IND*",
-        "probability": "0.8"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.6"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.2"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/oxley",
-    "data": [
-      {
-        "party": "ALP",
         "probability": "98.5"
       },
       {
-        "party": "LIB",
-        "probability": "1.1"
-      },
-      {
         "party": "IND*",
-        "probability": "0.2"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/fraser",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "98.5"
-      },
-      {
-        "party": "GRN",
-        "probability": "1.2"
+        "probability": "0.7"
       },
       {
         "party": "LIB",
-        "probability": "0.3"
+        "probability": "0.5"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.2"
       },
       {
         "party": "unknown",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -3576,8 +3575,8 @@
         "probability": "0.2"
       },
       {
-        "party": "GRN",
-        "probability": "0.1"
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "unknown",
@@ -3590,7 +3589,7 @@
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hotham",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/oxley",
     "data": [
       {
         "party": "ALP",
@@ -3598,22 +3597,22 @@
       },
       {
         "party": "LIB",
-        "probability": "1.3"
+        "probability": "0.9"
       },
       {
-        "party": "unknown",
-        "probability": "0.0"
+        "party": "IND*",
+        "probability": "0.2"
       },
       {
-        "party": "unknown",
-        "probability": "0.0"
+        "party": "ON",
+        "probability": "0.2"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
       },
       {
         "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -3627,7 +3626,7 @@
       },
       {
         "party": "IND*",
-        "probability": "0.6"
+        "probability": "0.5"
       },
       {
         "party": "ON",
@@ -3639,31 +3638,6 @@
       },
       {
         "party": "ALP",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/blaxland",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "98.7"
-      },
-      {
-        "party": "IND",
-        "probability": "0.9"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.3"
-      },
-      {
-        "party": "ON",
         "probability": "0.1"
       },
       {
@@ -3681,7 +3655,7 @@
     "data": [
       {
         "party": "NAT",
-        "probability": "98.7"
+        "probability": "98.8"
       },
       {
         "party": "IND*",
@@ -3700,11 +3674,61 @@
         "probability": "0.0"
       },
       {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/blaxland",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "98.8"
+      },
+      {
+        "party": "IND",
+        "probability": "0.8"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
         "party": "emerging party",
         "probability": "0.0"
       },
       {
-        "party": "other candidate",
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/dawson",
+    "data": [
+      {
+        "party": "LIB",
+        "probability": "98.9"
+      },
+      {
+        "party": "ON",
+        "probability": "0.7"
+      },
+      {
+        "party": "ALP",
+        "probability": "0.3"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
         "probability": "0.0"
       }
     ]
@@ -3714,11 +3738,11 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "98.8"
+        "probability": "99.0"
       },
       {
         "party": "LIB",
-        "probability": "0.8"
+        "probability": "0.6"
       },
       {
         "party": "IND*",
@@ -3735,9 +3759,30 @@
       {
         "party": "emerging party",
         "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hotham",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "99.0"
       },
       {
-        "party": "other candidate",
+        "party": "LIB",
+        "probability": "0.9"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
         "probability": "0.0"
       }
     ]
@@ -3747,76 +3792,22 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "98.9"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.8"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.2"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/makin",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "98.9"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.9"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/dawson",
-    "data": [
-      {
-        "party": "LIB",
         "probability": "99.0"
       },
       {
-        "party": "ON",
-        "probability": "0.8"
+        "party": "LIB",
+        "probability": "0.7"
       },
       {
-        "party": "ALP",
+        "party": "GRN",
         "probability": "0.2"
       },
       {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
         "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -3866,7 +3857,40 @@
         "probability": "0.0"
       },
       {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/makin",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "99.2"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.6"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "GRN",
+        "probability": "0.1"
+      },
+      {
         "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -3876,7 +3900,7 @@
     "data": [
       {
         "party": "ALP",
-        "probability": "99.3"
+        "probability": "99.2"
       },
       {
         "party": "IND*",
@@ -3891,65 +3915,7 @@
         "probability": "0.1"
       },
       {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/nicholls",
-    "data": [
-      {
-        "party": "NAT",
-        "probability": "99.3"
-      },
-      {
-        "party": "ON",
-        "probability": "0.4"
-      },
-      {
-        "party": "ALP",
-        "probability": "0.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/scullin",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "99.4"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.4"
-      },
-      {
-        "party": "ON",
-        "probability": "0.2"
-      },
-      {
-        "party": "GRN",
-        "probability": "0.1"
-      },
-      {
-        "party": "emerging party",
+        "party": "unknown",
         "probability": "0.0"
       }
     ]
@@ -3963,11 +3929,11 @@
       },
       {
         "party": "ALP",
-        "probability": "0.3"
+        "probability": "0.4"
       },
       {
         "party": "unknown",
-        "probability": "0.1"
+        "probability": "0.2"
       },
       {
         "party": "ON",
@@ -3976,55 +3942,34 @@
       {
         "party": "GRN",
         "probability": "0.1"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
       }
     ]
   },
   {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/barton",
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/nicholls",
     "data": [
       {
-        "party": "ALP",
-        "probability": "99.5"
-      },
-      {
-        "party": "LIB",
-        "probability": "0.4"
+        "party": "NAT",
+        "probability": "99.4"
       },
       {
         "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hasluck",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "99.5"
-      },
-      {
-        "party": "LIB",
         "probability": "0.4"
       },
       {
-        "party": "ON",
-        "probability": "0.1"
+        "party": "ALP",
+        "probability": "0.2"
       },
       {
-        "party": "unknown",
-        "probability": "0.0"
+        "party": "GRN",
+        "probability": "0.1"
       },
       {
         "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -4038,15 +3983,36 @@
       },
       {
         "party": "ON",
-        "probability": "0.2"
+        "probability": "0.3"
       },
       {
         "party": "ALP",
         "probability": "0.2"
       },
       {
-        "party": "GRN",
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/scullin",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "99.5"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
         "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "emerging party",
@@ -4059,11 +4025,11 @@
     "data": [
       {
         "party": "LIB",
-        "probability": "99.5"
+        "probability": "99.6"
       },
       {
         "party": "ON",
-        "probability": "0.5"
+        "probability": "0.4"
       },
       {
         "party": "emerging party",
@@ -4074,7 +4040,53 @@
         "probability": "0.0"
       },
       {
-        "party": "other candidate",
+        "party": "unknown",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/hasluck",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "99.6"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.3"
+      },
+      {
+        "party": "ON",
+        "probability": "0.1"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/barton",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "99.6"
+      },
+      {
+        "party": "LIB",
+        "probability": "0.4"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
         "probability": "0.0"
       }
     ]
@@ -4095,10 +4107,6 @@
         "probability": "0.0"
       },
       {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
         "party": "other candidate",
         "probability": "0.0"
       }
@@ -4113,14 +4121,10 @@
       },
       {
         "party": "LIB",
-        "probability": "0.2"
-      },
-      {
-        "party": "IND*",
         "probability": "0.1"
       },
       {
-        "party": "ON",
+        "party": "IND*",
         "probability": "0.1"
       },
       {
@@ -4129,6 +4133,14 @@
       },
       {
         "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "other candidate",
         "probability": "0.0"
       }
     ]
@@ -4142,7 +4154,7 @@
       },
       {
         "party": "LIB",
-        "probability": "0.2"
+        "probability": "0.1"
       },
       {
         "party": "IND*",
@@ -4153,11 +4165,11 @@
         "probability": "0.1"
       },
       {
-        "party": "emerging party",
+        "party": "unknown",
         "probability": "0.0"
       },
       {
-        "party": "unknown",
+        "party": "emerging party",
         "probability": "0.0"
       },
       {
@@ -4178,8 +4190,8 @@
         "probability": "0.1"
       },
       {
-        "party": "LIB",
-        "probability": "0.1"
+        "party": "unknown",
+        "probability": "0.0"
       },
       {
         "party": "unknown",
@@ -4203,11 +4215,11 @@
         "probability": "99.8"
       },
       {
-        "party": "ON",
+        "party": "ALP",
         "probability": "0.1"
       },
       {
-        "party": "ALP",
+        "party": "GRN",
         "probability": "0.1"
       },
       {
@@ -4263,43 +4275,6 @@
       {
         "party": "unknown",
         "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
-      }
-    ]
-  },
-  {
-    "url": "https://www.aeforecasts.com/seat/2025fed/regular/brand",
-    "data": [
-      {
-        "party": "ALP",
-        "probability": "99.9"
-      },
-      {
-        "party": "ON",
-        "probability": "0.1"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "unknown",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
-        "probability": "0.0"
       }
     ]
   },
@@ -4317,9 +4292,30 @@
       {
         "party": "unknown",
         "probability": "0.0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.aeforecasts.com/seat/2025fed/regular/brand",
+    "data": [
+      {
+        "party": "ALP",
+        "probability": "99.9"
       },
       {
-        "party": "other candidate",
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
+        "probability": "0.0"
+      },
+      {
+        "party": "emerging party",
+        "probability": "0.0"
+      },
+      {
+        "party": "unknown",
         "probability": "0.0"
       }
     ]
@@ -4337,10 +4333,6 @@
       },
       {
         "party": "emerging party",
-        "probability": "0.0"
-      },
-      {
-        "party": "other candidate",
         "probability": "0.0"
       }
     ]
